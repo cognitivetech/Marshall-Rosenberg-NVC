@@ -2,7 +2,7 @@
 
 ## [Quote Bot](quotebot)
 
-Sends text posts [to twitter](../.github/workflows/main.yml)
+Sends text posts [to twitter](/.github/workflows/quote.yml)
 
 ## Quote Images
 ### Print Quote on Images 
@@ -13,9 +13,13 @@ https://muthu.co/instagram-quotes-generator-using-python-pil/
 
 ### Quimgbot
 
-Based on [Quotebot](quotebot) which auto posts quotes \ images to twitter.
+Based on [Quotebot](quotebot) which auto posts image quotes [to twitter](/.github/workflows/quimg.yml)
 
 ### Cropping Tools
+
+Aspect Ratio Calculator:
+
+https://andrew.hedges.name/experiments/aspect_ratio/
 
 Need Imagemagick for all this stuff:
 
