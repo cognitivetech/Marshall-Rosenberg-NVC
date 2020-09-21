@@ -6,11 +6,11 @@ from PIL import Image, ImageDraw, ImageFont
 import os, random, yaml
 
 #variables for image size
-x1 = 1920
-y1 = 1080
+x1 = 1900
+y1 = 950
 
 #choose a font OpenSansHebrew-BoldItalic.ttf
-fnt = ImageFont.truetype('fonts/et-book-bold-line-figures.ttf', 69)
+fnt = ImageFont.truetype('et-book-bold-line-figures.ttf', 69)
 
 with open('quotes.yaml','r') as file:
     # The FullLoader parameter handles the conversion from YAML
@@ -22,9 +22,9 @@ acc = 0
 
 for quote in quotes:
   acc += 1
-  dir = 'imgs/'
+  dir = 'imgs'
   rand = ''
-  rand = random.choice(os.listdir("imgs"))
+  rand = random.choice(os.listdir(dir))
   randimg = dir + rand
   imgg = Image.open(randimg)
   img = imgg.convert('RGB')
@@ -66,6 +66,6 @@ for quote in quotes:
   
   d.text((qx,qy), fresh_sentence,align="center",  font=fnt, fill=(0,0,0))
   ac = str(acc)
-  filename = "quimgs/MBRQuote" + ac + "-" + rand
+  filename = "imgs/MBRQuote" + ac + "-" + rand
   img.save(filename)
 
