@@ -1,6 +1,6 @@
 # Marshall Rosenberg Quote-bot
 
-You need to adapt the [workflow file](https://github.com/cognitivetech/Marshall-Rosenberg-NVC/blob/master/.github/workflows/main.yml) to run this elsewhere.
+You need to adapt the [workflow file](/.github/workflows/quote.yml) to run this elsewhere.
 
 Every 4 hours, a Marshall Rosenberg quote is tweeted out by [@MarshallRsnberg](https://twitter.com/MarshallRsnberg).
 

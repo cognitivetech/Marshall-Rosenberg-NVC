@@ -1,8 +1,6 @@
 # Quote Bots
 
-## [Quote Bot](quotebot)
-
-Sends text posts [to twitter](/.github/workflows/quote.yml)
+[Quote Bot](quotebot) sends text posts [to twitter](/.github/workflows/quote.yml)
 
 ## Quote Images
 ### Print Quote on Images 
