@@ -4,7 +4,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-import tweepy, time, sys, yaml, random, os
+import tweepy, yaml, random, os
 
 # Get environment variables (stored encrypted in github repository, and called into the OS from the action workflow file main.yml)
 CONSUMER_KEY = os.environ.get('CONSUMER_KEY')
