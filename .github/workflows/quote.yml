@@ -10,8 +10,7 @@ on:
     - cron:  '33 */5 * * *'
   push:
     paths:
-    - '**.py'
-    - '.github/workflows'
+    - 'Marshall-Rosenberg-Quotes/quotebot/quotes.py'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
