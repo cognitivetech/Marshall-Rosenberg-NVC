@@ -7,7 +7,7 @@ name: quotebot
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '33 */7 * * *'
+    - cron:  '33 */6 * * *'
   push:
     paths:
     - 'Marshall-Rosenberg-Quotes/quotebot/quotes.py'
