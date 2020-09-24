@@ -1396,53 +1396,89 @@ I agree with you, especially when it comes to doing things for other people, bec
 
 Put it this way. If you do anything that involves giving in, both people pay for it, nothing has been resolved. It's gonna create problems.  
 
-(131:18)
-
+(2:11:18)
 ### Developing a Needs Literacy
 
 Is there a needs, dialogue or needs literacy? You mentioned that. I have the need literacy in my book. 
 
 If you want to develop your need literacy, I suggest you do the following activity. First, identify your most frequently used jackals, the ones you use the most and next the ones you're the most afraid of. 
 
-Do it this way. First, make a list of how you talk to yourself when you're less than perfect. Those of you over here who said you were perfect, you'll have to skip this part of it. But for those of you who aren't perfect, Nick, a list of what, how are you most likely to speak to yourself when you're less than perfect? So that's Jackal a list. Number one next, make a second list. What are the Jackal messages that go on in you when you are angry at others? So when you're judging others and are angry, what are you most likely to be saying to yourself or out loud about the other person?  
+Do it this way. First, make a list of how you talk to yourself when you're less than perfect. Those of you over here who said you were perfect, you'll have to skip this part of it. But for those of you who aren't perfect, a list of how are you most likely to speak to yourself when you're less than perfect? So that's Jackal a list. 
 
-(2:12:30)
-That's Jackal lift number two, Jackal lists, number three, list. Those things that when other people say it at the moment you respond to defensively or aggressively and put on that list of things that you have been so afraid that people might think of you, that you've become a nice dead person to avoid it. In other words, put into that list, not only what people have said that got you defensive, but things you're scared of, they might say, okay, now do this exercise to build your need literacy, go back over that first list. Where are you? What do you say to yourself when you're less than perfect now for each judgment, think of what might have been the stimulus for it. See, you got to relate each of these to a specific context. Say to yourself, let's say the first thing is you have in your list, this number one, what a dumb thing to do.  
+Next, make a second list. What are the Jackal messages that go on in you when you are angry at others? So when you're judging others and are angry, what are you most likely to be saying to yourself or out loud about the other person?  
 
-(2:13:30)
-Okay. Think of what you might have done to stimulate that. Okay. Then put on giraffe ears and hear the need behind stupid. See, I'm saying that all judgements are tragic expressions of unmet needs. Ask yourself. If I, when I say that to myself in that situation, how stupid, what need am I expressing through that judgment? What need of mine isn't getting met? Here's where you can use the list in my book. If you can't come up with it yourself, just look through the list and your body will tell you when y
+Jackal list number three: 
 
-ou're getting close, really? Cause Oh yeah. That's what my need is. The need comes much closer to the truth than any judgment you make of yourself. Do tha tor every item on the list. Second, what you tell yourself when you'r,ea(2:14:38)
-The,n ask yourself this question. When I judge peop
+List those things that when other people say it at the moment you respond to defensively or aggressively and put on that list of things that you have been so afraid that people might think of you, that you've become a nice dead person to avoid. 
 
-Idoing that, what need of mine was not being met in that situation? Again, try to guess it without my list, but if you can't find it, look through my list to find one that comes closest. The third list, what others say to you to get you defensive practice, putting on the giraffe ears, imagine what you did to stimulate it. In that situation, guess what the other person's needs were that weren't getting met. It's just learning a new language, learning where every time there are these Jackal judgements to as quickly as possible to bring yourself back to life or more specifically connect to needs are alive. Yes.  
+In other words, put into that list, not only what people have said that got you defensive, but things you're scared they might say. 
+
+Now do this exercise to build your need literacy, go back over that first list. Where are you? What do you say to yourself when you're less than perfect now for each judgment, think of what might have been the stimulus for it. See, you got to relate each of these to a specific context. 
+
+Let's say the first thing is you have in your list, number one "what a dumb thing to do." Think of what you might have done to stimulate that. Okay. Then put on giraffe ears and hear the need behind stupid. See, I'm saying that all judgements are tragic expressions of unmet needs. Ask yourself. If I, when I say that to myself in that situation, "how stupid" what need am I expressing through that judgment? What need of mine isn't getting met? 
+
+Here's where you can use the list in my book. If you can't come up with it yourself, just look through the list and your body will tell you when you're getting close. Oh yeah. That's what my need is. The need comes much closer to the truth than any judgment you make of yourself. Do that for every item on the list. 
+
+Second, what you tell yourself when you're angry at others again, identify concretely what the other person might have done to stimulate this. Then ask yourself this question: when i judge people as idiots who're doing that, what need of mine was not being met in that situation? 
+
+Again, try to guess it without my list, but if you can't find it, look through my list to find one that comes closest. 
+
+The third list, what others say to you to get you defensive. Practice putting on the giraffe ears, imagine what you did to stimulate it. In that situation, guess what the other person's needs were that weren't getting met. It's just learning a new language, learning where every time there are these Jackal judgments to as quickly as possible to bring yourself back to life or more specifically connect to needs that are alive in us.  
 
 (2:15:29)
-My question is I never know what to do when I know I'm never going to meet another person's you kExpectations of me. Yeah.  
+*My question is, i never know what to do when i know i'm never gonna meet another person's expectation of me*.
 
-(2:15:40)
-Yes. Well, first of all, never hear an expectation. That's thoughts, expectations or thoughts. Don't hear it. Don't even hear expectations. Hear what the need is. What is the need that the person is asking for you? To me, you don't want to live up to expectations, but it is fun to meet needs.  
+Yes. Well, first of all, never hear an expectation. That's thoughts, expectations or thoughts. Don't hear it. Don't even hear expectations. Hear what the need is. What is the need that the person is asking for you? You don't want to live up to expectations, but it is fun to meet needs.  
 
-(2:16:02)
-Do you think that every, that human beings can always meet other people's needs? If they're real,  
+*Do you think that every, that human beings can always meet other people's needs? If they're real?*
 
-(2:16:09)
-All of our needs can be met. I don't think you have to do it. There's several billion. Other people that could meet the other person's needs. Even if you couldn't do it, you may choose not to. That won't be a problem. The other person can hear a no. If they first feel empathy for their feelings and needs, that will eat  
+All of our needs can be met. I don't think you have to do it. There's several billion. Other people that could meet the other person's needs. Even if you couldn't do it, you may choose not to. That won't be a problem. The other person can hear a no, if they first feel empathy for their feelings and needs, that will leave them feeling at least that their feelings and needs matter. 
 
-(2:16:30)
-Them feeling at least that their feelings and needs matter. Right. That makes sense. Yes. But then again, you're not, you'd have to know how to say no indirect. That would be good for me to learn. Well, let me help you out. Never use the following words when you're saying no in giraffe. No, I can't. I don't want to, I don't have time. It's not possible now. You know how not to do it right now. Here's how you do it to say no in giraffe, you need to be conscious that a no is a poor expression of a need.  
+*Right. That makes sense.* 
 
-(2:17:16)
-Say the need that keeps you from saying yes. No. If you had giraffe years on just You wouldn't have heard me saying no, you would have said, what is Marshall's need? That's keeping him from saying, yes, you might've said back to me, Marshall, are you having a need for completion of other things you'd like to do right now? You would have tried to hear the need behind the no. What I said is all nos are tragic expressions of a need. Say the need that keeps you from saying yes, don't say no.  
+Yes. But then again, you're not, you'd have to know how to say no in Giraffe. 
+
+*That would be good for me to learn.* 
+
+Let me help you out. Never use the following words when you're saying no in giraffe: 
+
+- No, I can't.
+- I don't want to.
+- I don't have time.
+- It's not possible now.
+
+Now you know how not to do it.
+
+Here's how you do it. To say no in giraffe, you need to be conscious that a no is a poor expression of a need.  Say the need that keeps you from saying yes. 
+
+No. 
+
+If you had giraffe years on just You wouldn't have heard me saying no, you would have said, what is Marshall's need? That's keeping him from saying, yes, you might've said back to me, Marshall, are you having a need for completion of other things you'd like to do right now? You would have tried to hear the need behind the no. What I said is all nos are tragic expressions of a need. Say the need that keeps you from saying yes, don't say no.  
 
 (2:17:59)
-The way that I have this framed. I feel as though I am responding to a person's expectations. It's a work environment. Um, are you feeling afraid of being held responsible for the quality and quantity of the work that I'm doing? This is to a supervisor, are you feeling scared and need to protect yourself? That might be the need that I hear you guessing. Are you feeling scared and need to protect yourself in this matter? I guess when I hear that, I feel afraid because I'm inferring that there's a danger and that they have a fear of some danger. If this is what you're guessing is alive in them, you're not saying it's right. See, we never say you are feeling. We always say, are you feeling we may be wrong, but we're trying to get clear. What's going on in this person. Are you feeling afraid and need to protect yourself and taking the, my performance part out of it is that you're saying, take the me out of the, try to hear the feelings and needs without you. You've been, you kWe know what that is in this situation. You they're talking to you about some things you've done or haven't done. In the context, we're pretty clear what's going on. What we want to hear now is their feelings and needs. Are you feeling scared and need to protect yourself in this matter?  
+*The way that I have this framed. I feel as though I am responding to a person's expectations. It's a work environment.*
+
+Are you feeling afraid of being held responsible for the quality and quantity of the work that I'm doing? 
+
+This is to a supervisor, are you feeling scared and need to protect yourself? That might be the need that I hear you guessing. 
+
+Are you feeling scared and need to protect yourself in this matter? 
+
+I guess when I hear that, I feel afraid because I'm inferring that there's a danger and that they have a fear of some danger. If this is what you're guessing is alive in them, you're not saying it's right. 
+
+We never say "you are feeling". We always say, "are you feeling". We may be wrong, but we're trying to get clear what's going on in this person. 
+
+Are you feeling afraid and need to protect yourself 
+
+try to hear the feelings and needs without you. You've been, you kWe know what that is in this situation. They're talking to you about some things you've done or haven't done. In the context, we're pretty clear what's going on. What we want to hear now is their feelings and needs. Are you feeling scared and need to protect yourself in this matter?  
 
 (2:19:28)
-If this is in many settings where the people are not used to having feelings dealt with this may, this is the other person might get very upset with having their feelings being talked about. In which case you'd do it silently. But if you're a giraffe, you hear feelings and needs in every message. Whether you do it out loud or not politically, we adjust when we might do it out loud, but we don't allow anything else into our consciousness except this other person's feelings and needs.  
+In many settings where the people are not used to having feelings dealt. The other person might get very upset with having their feelings being talked about. In which case you'd do it silently. But if you're a giraffe, you hear feelings and needs in every message. Whether you do it out loud or not.
+
+Politically, we adjust when we might do it out loud, but we don't allow anything else into our consciousness except this other person's feelings and needs.  
 
 (2:20:04)
-Um, I think you said earlier that there's no compromise in giraffe communication. So I would find it instructional to know how the problem between the husband and wife was resolved and how it was a win situation for both of them.  
+**I think you said earlier that there's no compromise in giraffe communication. I would find it instructional to know how the problem between the husband and wife was resolved and how it was a win situation for both of them.**  
 
 (2:20:21)
 Once there is empathy, people feel that their feelings and needs matter, which is done through the empathy. You don't have the competitiveness, you don't have the chart. Here's how it went. After they both heard each other. He heard that it was really hurt for her not to be trusted, that she could learn. Once he felt, really understood how scared he was, that if she were to do what she did, when they first got married and overdraw the account, she could hear that he wanted to protect the family. I think most six year old children could resolve the conflicts. They'd get nations into Wars in which thousands are killed. If you gave the six year olds, you said, look, here are the needs on both sides. Here are the resources I'm confident. Most six-year-olds could solve the conflict. In this, it doesn't take a genius. What did it do? She said, I want to trial period to learn how to do it. First. He said, I'm scared. Cause you kYou could go through a lot of money learning. She agreed during the trial period, he would supervise her until he felt comfortable that she knew how to do it. Okay. That took about seven minutes, but they hadn't been able to get to that in 39 years because of all the enemy images that hurt them so forth.  
