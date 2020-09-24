@@ -1481,89 +1481,123 @@ Politically, we adjust when we might do it out loud, but we don't allow anything
 **I think you said earlier that there's no compromise in giraffe communication. I would find it instructional to know how the problem between the husband and wife was resolved and how it was a win situation for both of them.**  
 
 (2:20:21)
-Once there is empathy, people feel that their feelings and needs matter, which is done through the empathy. You don't have the competitiveness, you don't have the chart. Here's how it went. After they both heard each other. He heard that it was really hurt for her not to be trusted, that she could learn. Once he felt, really understood how scared he was, that if she were to do what she did, when they first got married and overdraw the account, she could hear that he wanted to protect the family. I think most six year old children could resolve the conflicts. They'd get nations into Wars in which thousands are killed. If you gave the six year olds, you said, look, here are the needs on both sides. Here are the resources I'm confident. Most six-year-olds could solve the conflict. In this, it doesn't take a genius. What did it do? She said, I want to trial period to learn how to do it. First. He said, I'm scared. Cause you kYou could go through a lot of money learning. She agreed during the trial period, he would supervise her until he felt comfortable that she knew how to do it. Okay. That took about seven minutes, but they hadn't been able to get to that in 39 years because of all the enemy images that hurt them so forth.  
+Once there is empathy, people feel that their feelings and needs matter, which is done through the empathy. You don't have the competitiveness. Here's how it went. After they both heard each other. He heard that it was really hurt for her not to be trusted that she could learn. Once he felt she really understood how scared he was, that if she were to do what she did, when they first got married and overdraw the account, she could hear that he wanted to protect the family. 
+
+> I think most six year old children could resolve the conflicts that get nations into wars in which thousands are killed. 
+
+If you gave the six year olds, you said, look, here are the needs on both sides, here are the resources, I'm confident most six-year-olds could solve the conflict. 
+
+In this, it doesn't take a genius. What did they do? She said, I want to trial period to learn how to do it. At first, he said, I'm scared, cause you you could go through a lot of money learning. 
+
+She agreed, during the trial period, he would supervise her until he felt comfortable that she knew how to do it. Okay. That took about seven minutes, but they hadn't been able to get to that in 39 years because of all the enemy images, the hurt and so forth.  
 
 (2:21:53)
-Um, how do you deal with a situation when you have a similar needs and you attempt to express them to each other and you sense as the emotions build up because of a parent competitive edge working that our mutual needs are not being  
+How do you deal with a situation when you have similar needs and you attempt to express them to each other and you sense as the emotions build up because of a apparent competitive edge working that our mutual needs are not being heard
 
-(2:22:20)
-Heard about EDA or the jackals, then you either need  
+Then you either need to get a third party to give both of them the empathy they need to hear each other. If the two people are in pain, they don't know how to give themselves enough empathy, to be able to hear the other side, then you need to get a third party to give the empathy to each of them so that they can then hear each other. That the party should be together with these two individuals or separately. There's different ways to do that. They're together. There's some advantages, but it could be to give empathy to both sides separately and then help each side to hear the other side and then bring them together. 
 
-(2:22:26)
-To get a third party to give both of them the empathy they need to hear each other. If the two people are in pain, they don't know how to give themselves enough empathy, to be able to hear the other side, then you need to get a third party to give the empathy to each of them so that they can then hear each other. That the party is, should be together with these two individuals or separately. There's different ways to do that. They're together. There's some advantages, but it could be to give empathy to both sides separately and then help each side to hear the other side and then bring them together. Thank you.  
-Speaker 10    02:23:28    Yeah. Um, this morning you made a reference to draft morning and that there's a different way of saying you're sorry to someone. I wanted to hear what that was.  
+This morning you made a reference to Giraffe mourning and that there's a different way of saying you're sorry to someone. I wanted to hear what that was.  
 
 (2:23:37)
-Okay. Let's real quick. Look at what I mean by draft morning. Think of something you did that you wished you hadn't done and identify, recall as best you can. How you talk to yourself when you said it or did it, whatever you did. What did you do that you wished you hadn't done after you had done it? Give me a sample of what you said to yourself when you, did you have one in mind  
-Speaker 10    02:24:22    That I was feeling defensive and I criticize someone.  
+Okay. Let's real quick look at what I mean by giraffe morning. Think of something you did that you wished you hadn't done, and identify, recall as best you can how you talk to yourself when you said it or did it, whatever you did. What did you do that you wished you hadn't done after you had done it? Give me a sample of what you said to yourself when you did.
+
+That I was feeling defensive and I criticize someone.  
 
 (2:24:27)
-So, What you did is you said some things to another person that you wished you hadn't done. Right. Okay. What did you say to yourself when you did that?  
-Speaker 10    02:24:40    Well, usually in the moment I feel defensive of myself.  
+So, What you did is you said some things to another person that you wished you hadn't done. Okay. What did you say to yourself when you did that?  
+
+Well, usually in the moment I feel defensive of myself.  
 
 (2:24:43)
-No, I want to concretely know that for this exercise. I need to know concretely what you say to yourself when you behave in a way you don't like, Hmm, this is very important to answer your question about giraffe morning. It's very important
+No, I want to concretely know that for this exercise. I need to know concretely what you say to yourself when you behave in a way you don't like, This is very important to answer your question about giraffe mourning. It's very important to identify your inner, what your inner educator is saying to you. 
 
- to identify your inner, what your inner educator is saying to you. This, all of us have an inner educator whose function it is to educate us when we are  ts than perfect. Most of us made the mistake of sending our inne,ra(2:25:25)
-And, so it's important to be conscious of how 
+All of us have an inner educator whose function it is to educate us when we are less than perfect. Most of us made the mistake of sending our inner educator off to a brutal jackal academy for inner educators and so, it's important to be conscious of how our inner educator talks to us that's what i'm asking you - when you said what you did to your husband what did your inner educator how did your inner educator try to educate you? It said what to you about what you had done in the moment or later? Either one.  
 
-Ir talks to us. That's what I'm asking you. When you said what you did to your husband, what did your inner educator, how did your inner educator try to educate you? It said what to you about what you had done in the moment or later? Either one.  
-Speaker 10    02:25:46    Well, the point when I start to feel regret or sorry is later  
+Well, the point when I start to feel regret or sorry is later  
 
-(2:25:52)
-It at any point, what did you say to yourself about what you had done? Okay.  
-Speaker 10    02:25:55    Okay. I said, I'm a bad person.  
+At any point, what did you say to yourself about what you had done? Okay.  
+
+Okay. I said, I'm a bad person.  
 
 (2:25:58)
-That's enough. Your inner educator tries to educate you through penitence, through making you hate yourself for what you've done. It uses language that implies there's such a thing as a bad person. Alright. If you apologize out of that energy, that's Jackal, any apology that comes out of thinking you did something wrong is not going to be good for you or the other person. You wouldn't be so far. I know it feels bad. Yeah. I really want you to feel bad in this situation, but I want you to feel a sweet bat, a sweet bag that will help you learn from this without hating yourself.  
+That's enough. Your inner educator tries to educate you through penitence, through making you hate yourself for what you've done. It uses language that implies there's such a thing as a bad person. Alright. If you apologize out of that energy, that's Jackal, any apology that comes out of thinking you did something wrong is not going to be good for you or the other person. You wouldn't be so far. I know it feels bad. Yeah. I really want you to feel bad in this situation, but I want you to feel a sweet bad, a sweet bad that will help you learn from this without hating yourself.  
 
 (2:26:50)
-When you have a thought in your head that you're a bad person, that's an ugly bad, that's a punitive bad that'll first of all, make it hard to learn. Even if you do learn, it's out of self hatred. Whatever changes you make are at great cost. That's your inner educator. That was your inner educator speaking to you when it said you're a bad person. We've been learning today that all judgments are expressions of needs, right? So your inner educator means, well, it really means, well, it wants you to learn from this in a way that will serve live. It means, well, it's just it's language. That sucks. Okay. We don't want to hear what the inner educator thinks about us. We want to hear the need that isn't getting met, that it's trying to call to our attention. What need is your inner educator trying to bring to your attention that you didn't meet by how you behaved  
-Speaker 10    02:27:58    A need to be in relationship with the other person  
+When you have a thought in your head that you're a bad person, that's an ugly bad, that's a punitive bad that'll, first of all, make it hard to learn. Even if you do learn, it's out of self hatred. Whatever changes you make are at great cost. That's your inner educator. That was your inner educator speaking to you when it said you're a bad person. 
 
-(2:28:06)
-A need and what relationship, a mutual understanding, respectful. Right? So it didn't meet your need for respecting and understanding the other person. How do you feel when that need isn't met guilty, then you still got the bad person image in mind. You still think that if there's any thinking, still going on, that guilt comes from the judgment. I feel separate and isolated, but how do you feel? What emotion do you feel about not meeting your own needs for understanding and respecting? See the guilt comes from that image of bad person, but what feeling comes from not meeting your need to respond to it. T
+We've been learning today that all judgments are expressions of needs, right? So your inner educator means well, it really means well, it wants you to learn from this in a way that will serve life. It means, well, it's just it's language that sucks. 
 
-his person with respect and understanding sad, that's a sweet pain. That's giraffe morning. If you say to the person, you kThe way I talked to you, I f t really sad. It doesn't meet my need for respecting you an,daspecting and ,understanding, check with the other person. Wha
+Okay. We don't want to hear what the inner educator thinks about us. We want to hear the need that isn't getting met, that it's trying to call to our attention. What need is your inner educator trying to bring to your attention that you didn't meet by how you behaved  
 
-Iear, whether they'd rather hear the giraffe morning or the apology that you're a bad person. Yes.  
-Speaker 11    02:29:45    I'm having a little problem trying to find the teeth in the, in this model somehow. Um, it seems like everything is, even though we're talking to it's on a feeling level, everything seems the way I'm interpreting anyways. It's sort of on a mental level as opposed to an emotional level. I guess I operate a lot from my gut. I'm trying to try, I'm trying to get down to that somehow. I need some help with it. It's basically, Tell me how I would be able to use this technique in my daily life. Um, and, To make it not too well so that it's, It's natural. You kIt's not natural for me to operate this way. The first thing  
+A need to be in relationship with the other person  
 
-(2:30:31)
-I would recommend to you is change the word natural to habitual change the word natural to habitual. I think this process is natural, more natural than the way you were trained to think. Gandhi says it's very dangerous to mix up the words, natural and habitual. He says we have been trained to be quite habitual at communicating in ways that are quite unnatural. I can't think of a more natural way to communicate than to talk about what's alive in us. Just what we're feeling and needing.  
-Speaker 11    02:31:06    But wouldn't you feel like saying if I feel like saying no, it seems okay to me that what you were saying before, is that  
+A need and what kind of relationship, a mutual understanding, respectful. Right? So it didn't meet your need for respecting and understanding the other person. How do you feel when that need isn't met? 
+
+guilty
+
+Then you still got the bad person image in mind. You still think that if there's any thinking, still going on, that guilt comes from the judgment. 
+
+I feel separate and isolated. 
+
+But how do you feel? What emotion do you feel about not meeting your own needs for understanding and respecting? See the guilt comes from that image of bad person, but what feeling comes from not meeting your need to respond to this person with respect and understanding? 
+
+sad
+
+that's a sweet pain. That's giraffe mourning. If you say to the person, you know the way I talked to you, i feel really sad. It doesn't meet my need for respecting you and understanding you.
+
+Ihere's no image in there that i'm a bad person. I'm sad, i didn't meet my own need for respecting and understanding.
+
+check with the other person. whether they'd rather hear the giraffe morning or the apology that you're a bad person. 
+
+I'm having a little problem trying to find the teeth in this model somehow. It seems like everything is, even though we're talking to it's on a feeling level, everything seems the way I'm interpreting anyways. It's sort of on a mental level as opposed to an emotional level. I guess I operate a lot from my gut. I'm trying to get down to that somehow. I need some help with it. Tell me how I would be able to use this technique in my daily life. To make it so that it's natural. It's not natural for me to operate this way. 
+
+The first thing I would recommend to you is change the word natural to habitual. I think this process more natural than the way you were trained to think. Gandhi says it's very dangerous to mix up the words, natural and habitual. He says we have been trained to be quite habitual at communicating in ways that are quite unnatural. I can't think of a more natural way to communicate than to talk about what's alive in us. Just what we're feeling and needing.  
+
+If I feel like saying no, it seems okay to me,...
 
 (2:31:14)
-What you mean? But what do you mean by, okay. It's okay to say no. Or what do you mean? What do I mean We can go back and forth. Let me be more specific when you say no, I predict that by saying no more often than you would like the other person is going to react to you in a way that isn't in your wealth, in your best interest. But if you say the need behind the no, that's less likely to happen.  
-Speaker 11    02:31:49    So then if I understand what you're saying, you're trying to, the idea is that is to communicate in a way that the other person would communicate back to you. That it's in my best interest,  
+But what do you mean by, okay? It's okay to say no. Let me be more specific when you say no, I predict that by saying no., more often than you would like the other person is going to react to you in a way that isn't in your best interest. If you say the need behind the no, that's less likely to happen.  
 
-(2:32:01)
-I'm saying the purpose of this process is to get everybody's needs met and that the needs are met by people giving willingly, not out of any coercive motivation. I'm saying that when you say, no, it gets in the way of the likelihood that everybody's needs are going to end up getting met. If you say the need that keeps you from saying, yes, I predict there's more likelihood that everybody's needs will end up getting there.  
-Speaker 11    02:32:34    So it's just what you're, if I understand what you're saying, you're saying just to express your needs without saying to kBut  
+So then if I understand what you're saying, you're trying to, the idea is that is to communicate in a way that the other person would communicate back to you in a way that's in my best interest? 
 
-(2:32:40)
-I'm saying the need is clear. The need is a clear expression of what you're trying to say to no, you get clear more connected to life. When you say the need that keeps you from saying yes than just saying no. It's less likely to be interpreted as a rejection as you being defensive. You just say the know by itself, I predict is more likely to get you interpretations that aren't in your best interests.  
-Speaker 11    02:33:09    Sometimes when I don't hear a no, I look at it as being sort of a passive aggressive response to something that I might want someone, you kLet's say, if you say, if I make an appointment with somebody and instead of them saying, no, they just don't show up. Then they give me a reason why they don't.  
+I'm saying the purpose of this process is to get everybody's needs met, and that the needs are met by people giving willingly, not out of any coercive motivation. I'm saying that when you say, no, it gets in the way of the likelihood that everybody's needs are going to end up getting met. If you say the need that keeps you from saying, yes, I predict there's more likelihood that everybody's needs will end up getting met.  
 
-(2:33:28)
-Yes. I'm not suggesting that I'm not suggesting that response. I'm suggesting that I would have liked that person to have told you honestly, at the time what their need was. I think if they had done that, you wouldn't have gotten into that situation. They said a yes, that wasn't.  
-Speaker 11    02:33:48    Some people are, won't say, I'm afraid. Let's say if the reason is that they're afraid to. Yeah.  
+If I understand what you're saying, you're saying just to express your needs without saying without saying a no?
+
+I'm saying the need is a clear expression of what you're trying to say. You get more connected to life when you say the need that keeps you from saying yes than just saying no. It's less likely to be interpreted as a rejection as you being defensive. You just say the no by itself, I predict is more likely to get you interpretations that aren't in your best interests.  
+
+Sometimes when I don't hear a no, I look at it as being sort of a passive aggressive response to something that I might want someone... If I make an appointment with somebody and instead of them saying, no, they just don't show up. Then they give me a reason why they don't.  
+
+Yes. I'm not suggesting that I'm not suggesting that response. I'm suggesting that I would have liked that person to have told you honestly, at the time what their need was. I think if they had done that, you wouldn't have gotten into that situation. They said a yes that wasn't.  
+
+Some people are, won't say, I'm afraid. If the reason is that they're afraid.
 
 (2:33:55)
-It would depend a lot on what has happened in the past to them. When they have said no, in whatever way they did it, they did it. If they have not enjoyed very, Empathic responses to it in the past, then they're probably afraid to be honest about it.  
-Speaker 11    02:34:13    I see the value in all of this. I really do. I guess it's idea that it's a touchy feely type of thing that I'm not used to working around that house.  
+It would depend a lot on what has happened in the past to them when they have said no, in whatever way they did it, they did it. If they have not enjoyed very, Empathic responses to it in the past, then they're probably afraid to be honest about it.  
+
+I see the value in all of this. I really do. I guess it's idea that it's a touchy feely type of thing that I'm not used to working around that.
 
 (2:34:21)
-Let's you're trying to figure out if I'm understanding is how to really put this into a idiom that you can use daily and feels comfortable to you. That's one way of putting it. Yeah. So in our training, we first show people how to develop the literacy and then how to put it into their regular language. I had a student traveling with me and he wanted to give me a, an, a gratitude. Okay. He liked something. I did. I was really working a group hard. During the break, you said dictator, that was giraffe because he knew that I knew what he was reacting to. He knew I wouldn't hear a judgment. He knew, I would guess in there what he was feeling and needing to see. He could say that dictator. After we really know how to clearly identify our feelings, needs and requests, then we can start to put it into a language that can connect us with the people we're speaking with. But in this stage of the day after one day, I'm still working with you on making sure you understand what a feeling and a need is. Because if you don't really understand that, it's going to be hard to know how to then put it into your idiots.  
-Speaker 11    02:35:40    I guess I'm a recovering New York Jackal. Yeah.  
+You're trying to figure out, if I'm understanding, how to really put this into a idiom that you can use daily and feels comfortable to you. 
+
+That's one way of putting it. 
+
+Yeah. So in our training, we first show people how to develop the literacy and then how to put it into their regular language. I had a student traveling with me and he wanted to give me a gratitude. He liked something I did. I was really working a group hard. During the break, he said dictator. That was giraffe because he knew that I knew what he was reacting to. He knew I wouldn't hear a judgment. He knew, I would guess in there what he was feeling and needing to see. He could say that dictator. 
+
+After we really know how to clearly identify our feelings, needs and requests, then we can start to put it into a language that can connect us with the people we're speaking with. In this stage of the day after one day, I'm still working with you on making sure you understand what a feeling and a need is. Because if you don't really understand that, it's going to be hard to know how to then put it into your words.  
+
+I guess I'm a recovering New York Jackal.
 
 (2:35:46)
-I'm getting the impression that apology, isn't really the best service of being a giraffe. I'd like to know if you could model, I'd like to see you model for me an acknowledgement of missing the Mark sitting courageously. If you recall earlier, I showed you an example of that, where I showed the person saying, I feel sad. I would have liked to have responded with more understanding than I did. You're not using the word. I'm sorry. You're saying I'm sad. You're telling me it's not so much the word. I'm sorry. What we shifted from was thinking that I did something wrong. That it was bad. It's that thinking? That is the problem. The Ansari follows from that thinking. It's not just that. I don't say I'm sorry. I say I'm sad. If I'm sad, see the word, I'm sorry. It means almost nothing.  
+I'm getting the impression that apology, isn't really the best service of being a giraffe. I'd like to see you model for me an acknowledgement of missing the mark sitting courageously. 
 
-(2:36:41)
-People can say that and not feel anything that's this. They use say that to by forgiveness. It's so if I'm feeling sad, I say that I'm feeling sad. I would have liked to have been more aware of your needs, for example, where I didn't take the person's needs into consideration, but I don't say I'm sorry. That was inconsiderate of me. There's no, self-blame I didn't do anything wrong. There is no such thing as doing anything wrong. What I did was not in harmony with my needs. I wanted more than that. I'm sad. I would have liked to have been more aware of your needs. Something like that. Does that give you the example? I think you have a question over here to your left.  
+If you recall earlier, I showed you an example of that, where I showed the person saying, I feel sad, I would have liked to have responded with more understanding than I did. You're not using the word. I'm sorry. You're saying I'm sad. It's not so much the word I'm sorry.  What we shifted from was thinking that I did something wrong that it was bad. It's that thinking that is the problem. 
 
-(2:37:30)
+The 'I'm Sorry' follows from that thinking. It's not just that. I don't say I'm sorry. I say I'm sad. If I'm sad, see the word, I'm sorry. It means almost nothing.  People can say that and not feel anything. They use say that to by forgiveness. If I'm feeling sad, I say that I'm feeling sad. I would have liked to have been more aware of your needs, for example, where I didn't take the person's needs into consideration, but I don't say I'm sorry. That was inconsiderate of me. 
+
+There's no, self-blame I didn't do anything wrong. There is no such thing as doing anything wrong. What I did was not in harmony with my needs. I wanted more than that. I'm sad. I would have liked to have been more aware of your needs. Something like that. 
+
+1:37:27
 I have a situation with my intimate partner that many times we get together and we argue a lot and I have this need. And that you were saying earlier is inappropriate. That I want her to be happy. I didn't say it was inappropriate. I said it was undoable. Okay. Right. But that's who she keeps telling me. But if you're gonna tell me to be happy, tell me the action to get there that I can do. If you tell me an action that you've predicted. If I do that, I'll be happy at the end. It would be helpful. Tell me the action. Don't just tell me, be happy. Don't tell me to have confidence in myself. Tell me what you would like me to do to feel that confidence, the action will get me there, but just telling me what to feel, puts me into a paradoxical bind. Okay. Um, well, one of the other things would be when we get together, I don't necessarily want to be going somewhere with her. If she's not in a good mood at that time, or if there's some tenseness empathize with why I'm not in a good mood and I'll be in one, but telling me I got to be in a better mood for you to want to go with me. It gets me in the worst one.  
 
 (2:38:56)
