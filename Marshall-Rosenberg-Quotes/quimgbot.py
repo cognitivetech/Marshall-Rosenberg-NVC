@@ -20,4 +20,4 @@ files=os.listdir('Marshall-Rosenberg-Quotes/imgs')
 img=random.choice(files)
 img = 'Marshall-Rosenberg-Quotes/imgs/' + img
 
-api.update_with_media(img)
+api.update_with_media(img, "#NonviolentCommunication #NVC #MarshallRosenberg")
