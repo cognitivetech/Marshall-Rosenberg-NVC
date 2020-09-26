@@ -7,7 +7,10 @@ name: quimgbot
 on:
   schedule:
     # * is a special character in YAML so you have to quote this string
-    - cron:  '33 */9 * * *'
+    - cron:  '33 14 * * *'
+    - cron:  '20 20 * * *'
+    - cron:  '11 1 * * *'
+    - cron:  '22 7 * * *'
   push:
     paths:
     - 'Marshall-Rosenberg-Quotes/quimgbot.py'
