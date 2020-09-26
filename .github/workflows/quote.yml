@@ -10,7 +10,7 @@ on:
     - cron:  '33 11 * * *'
     - cron:  '22 17 * * *'
     - cron:  '11 23 * * *'
-    - cron:  '33 4 * * *'
+    - cron:  '33 5 * * *'
   push:
     paths:
     - 'Marshall-Rosenberg-Quotes/quotebot/quotes.py'
