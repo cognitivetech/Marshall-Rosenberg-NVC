@@ -3,9 +3,11 @@
 We don't collect or store personal information.
 
 
-## Collection of Routine Information
+## No Personal Data Collected
 
-These scripts are used to share favorite Marshall Rosenberg quotes, and related information. They are only concerned with routinely posting to Facebook and\or Twitter.
+These scripts are used to share favorite Marshall Rosenberg quotes, and related information. 
+
+They are only concerned with routinely posting to Facebook and\or Twitter.
 
 ## Cookies
 
