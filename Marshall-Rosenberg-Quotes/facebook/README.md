@@ -6,6 +6,11 @@ I followed this guide.
 
 [Automatically publish to facebook pages with python](https://blog.theodo.com/2019/02/automatically-publish-facebook-pages-python/)
 
+#### Permissions Required
+
+* `pages_read_engagement`
+* `pages_manage_posts`
+
 ## App Review
 
 Facebook has suspended individual verification because of COVID. Business verification is required. If you are like me and creating a not-for-profit page to share information, it's still valuable to have a business.
@@ -18,6 +23,7 @@ The rest of the information required for completing app review should be found h
 > If your app has no user interface because it exchanges data directly with our APIs, refer to this guide when configuring your app's Basic Settings, and when completing App Review.
 
 [Server-to-Server App Sample Submission](https://developers.facebook.com/docs/app-review/resources/sample-submissions/server-to-server)
+
 
 ## Business Verification
 

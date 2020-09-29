@@ -10,5 +10,6 @@ with open('Marshall-Rosenberg-Quotes/quotebot/quotes.yaml','r') as file:
     quotes = yaml.load(file, Loader=yaml.FullLoader)
     file.close()
     item = random.choice(quotes)
+    print(item)
     graph.put_object(facebook_page_id, "feed", message=item)
 
