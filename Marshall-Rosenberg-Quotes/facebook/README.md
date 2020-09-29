@@ -17,19 +17,20 @@ At the very bottom of `Settings > Basic` you have to choose a platform. I chose 
 
 ## App Review
 
-Facebook has suspended individual verification because of COVID. Business verification is required. If you are like me and creating a not-for-profit page to share information, it's still valuable to have a business.
-
-The following steps are obviously only for the USA. It will be required to create a business to publish a facebook app, until they bring back individual verification.
-
-The rest of the information required for completing app review should be found here:
+Information required for completing app review should be found here:
 
 [Server-to-Server Apps](https://developers.facebook.com/docs/apps/server-to-server-apps) 
 > If your app has no user interface because it exchanges data directly with our APIs, refer to this guide when configuring your app's Basic Settings, and when completing App Review.
 
 [Server-to-Server App Sample Submission](https://developers.facebook.com/docs/app-review/resources/sample-submissions/server-to-server)
 
+You need verification to go live with your app, but you can submit your app for review while waiting for your DBA to be registered:
 
 ## Business Verification
+
+Facebook has suspended individual verification because of COVID. Business verification is required. If you are like me and creating a not-for-profit page to share information, it's still valuable to have a business.
+
+The following steps are obviously only for the USA. It will be required to create a business to publish a facebook app, until they bring back individual verification.
 
 ### Sole Proprietorship
 
