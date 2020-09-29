@@ -12,6 +12,15 @@ Facebook has suspended individual verification because of COVID. Business verifi
 
 The following steps are obviously only for the USA. It will be required to create a business to publish a facebook app, until they bring back individual verification.
 
+The rest of the information required for completing app review should be found here:
+
+[Server-to-Server Apps](https://developers.facebook.com/docs/apps/server-to-server-apps) 
+> If your app has no user interface because it exchanges data directly with our APIs, refer to this guide when configuring your app's Basic Settings, and when completing App Review.
+
+[Server-to-Server App Sample Submission](https://developers.facebook.com/docs/app-review/resources/sample-submissions/server-to-server)
+
+## Business Verification
+
 ### Sole Proprietorship
 
 Simplest cheapest way to register a business, can change this later if necessary.
