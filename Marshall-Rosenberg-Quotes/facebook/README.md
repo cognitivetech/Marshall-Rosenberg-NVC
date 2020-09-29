@@ -6,6 +6,10 @@ I followed this guide.
 
 [Automatically publish to facebook pages with python](https://blog.theodo.com/2019/02/automatically-publish-facebook-pages-python/)
 
+#### Platform
+
+At the very bottom of `Settings > Basic` you have to choose a platform. I chose website, and linked to the public github repository where my app is stored. If you don't have a public script, link to your business website.  In my case I bought a domain for my business, as mentioned below in [Business Verification](#business-verification)
+
 #### Permissions Required
 
 * `pages_read_engagement`
