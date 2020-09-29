@@ -6,8 +6,9 @@ name: fbquimg
 # events but only for the master branch
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '33 */8 * * *'
+    - cron:  '22 7 * * *'
+    - cron:  '33 15 * * *'
+    - cron:  '11 23 * * *'
   push:
     paths:
     - 'Marshall-Rosenberg-Quotes/facebook/fbquimg.py'

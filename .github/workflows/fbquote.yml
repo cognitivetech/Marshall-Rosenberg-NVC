@@ -6,8 +6,9 @@ name: fbtxtquote
 # events but only for the master branch
 on:
   schedule:
-    # * is a special character in YAML so you have to quote this string
-    - cron:  '11 */7 * * *'
+    - cron:  '33 3 * * *'
+    - cron:  '11 11 * * *'
+    - cron:  '22 19 * * *'
   push:
     paths:
     - 'Marshall-Rosenberg-Quotes/facebook/fbquote.py'
