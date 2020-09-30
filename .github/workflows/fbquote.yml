@@ -6,7 +6,6 @@ name: fbtxtquote
 # events but only for the master branch
 on:
   schedule:
-    - cron:  '33 3 * * *'
     - cron:  '11 11 * * *'
     - cron:  '22 19 * * *'
   push:
