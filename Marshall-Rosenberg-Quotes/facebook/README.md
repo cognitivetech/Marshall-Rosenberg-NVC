@@ -24,11 +24,11 @@ Information required for completing app review should be found here:
 
 [Server-to-Server App Sample Submission](https://developers.facebook.com/docs/app-review/resources/sample-submissions/server-to-server)
 
-You need verification to go live with your app, but you can submit your app for review while waiting for your DBA to be registered:
+[Common mistakes submitting for app review](https://developers.facebook.com/docs/app-review/submission-guide/common-mistakes)
 
 ## Business Verification
 
-Facebook has suspended individual verification because of COVID. Business verification is required. If you are like me and creating a not-for-profit page to share information, it's still valuable to have a business.
+Facebook has suspended individual verification because of COVID. Business verification is required. That said, it appears my facebook posts are live now that my app has its app review, even without verification. I am checking by looking at the page in a browser not logged into FB. I will complete verification, but not sure I really need it for this app.
 
 The following steps are obviously only for the USA. It will be required to create a business to publish a facebook app, until they bring back individual verification.
 
