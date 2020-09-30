@@ -6,7 +6,6 @@ name: quimgbot
 # events but only for the master branch
 on:
   schedule:
-    - cron:  '22 7 * * *'
     - cron:  '33 15 * * *'
     - cron:  '11 23 * * *'
   push:
