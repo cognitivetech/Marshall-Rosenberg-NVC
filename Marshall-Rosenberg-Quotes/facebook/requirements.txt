@@ -1,2 +1,0 @@
-facebook-sdk==2.0.0
-pyyaml
