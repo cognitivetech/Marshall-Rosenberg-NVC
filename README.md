@@ -329,6 +329,54 @@ Make a concrete request for action to meet the need just identified. Ask clearly
   > This paper refers to the “giraffe language” and “jackal language”, which allude to the “non-violent communication” concept according to Marshall B. Rosenberg. The two languages being discussed describe two different types of rhetoric and, at the same time, two opposite communication/social rituals used by people in their everyday life and also in the mass media, and omnipresent in the advertisement. The paper tries to draw attention that contemporary media is based on “jackal language” (often strongly rooted in our culture and mentality) being a language of violence, blocking empathy and stimulating conflicts and tension in interpersonal communication and relationships). Unfortunately media makes a tremendous impact on the customers (especially on young people).This paper aims to propagate and encourage using the “giraffe language” described as the language of love, understanding and clemency. The ‘giraffe language’ encourages constructive, matter-of-fact and unbiased communication. A long giraffe’s neck became its symbol - a metaphor of perfect (objectivity) communication. 
 * [Learning to speak Giraffe - Nonviolent Communication in action](https://networkmagazine.ie/articles/learning-speak-giraffe-nonviolent-communication-action)
 
+## Works Authored by Marshall Rosenberg
+
+- NVC0312 – NVC: A Language of Life
+- NVC0302 – Life-Enriching Education
+- NVC0316 – Teaching Children Compassionately
+- NVC144R – Raising Children Compassionately
+- NVC0311 – Getting Past the Pain Between US
+- NVC0503 – Speak Peace in a World of Conflict
+- NVC0507 – The Surprising Purpose of Anger
+- NVC0505 – Being Me Loving You
+- NVC0310 – The Heart of Social Change
+- NVC0315 – We Can Work It Out
+- NVC0408 – Practical Spirituality
+- NVC101 – A Model for NVC
+- NVC102 – Duck Tales and Jackal Taming Hints
+- NVC129 – Marshall Live!: 3 Workshops on NVC
+- NVC0401 – Live Compassionately Songbook
+- NVC143 – Compassionate Communication Songbook
+- NVC0319 – Como Criar a Nuestros Hijos de Manera Compasiva
+- NVC159 – Las Bases Espirituales de la CNV
+- NVC0604 – Communicacion No Violenta
+- NVC108 – Connecting Compassionately (audio tapes)
+- NVC109 – Intro to a Model for NVC (audio tapes)
+- NVC110 – Marshall's Music 1 (audio tapes)
+- NVC111 – Marshall's Music 2 (audio tapes)
+- NVC135 – Expressing and Receiving Anger Compassionately (audio tapes)
+- NVC141 – NVC for Educators (audio tapes)
+- NVC142 – A Heart to Heart Talk (audio tapes)
+- NVC146 – Giraffe Fuel for Life (audio CD)
+- NVC147 – Needs And Empathy (audio CD)
+- NVC148 – Intimate Relationships (audio CD)
+- NVC149 – Live Compassionately (audio CD)
+- NVC0308 – Creating a Life-Serving System Within Oneself (audio CD)
+- NVC0309 – Experiencing Needs as a Gift (audio CD)
+- NVC0306 – Speaking Peace (audio CD)
+- NVC0402 – NVC: Create Your Life, Relationships and World in Harmony ... (audio CD)
+- NVC0603 – NVC Training Course (audio CD)
+- NVC0510  – The Power We Have to Create the World of Our Choosing (audio CD)
+- NVC132/NVC140 – NVC: A Language of the Heart (video tape)
+- NVC117/NVC136 – Resolving Conflicts with Children and Adults (video tape)
+- NVC157/NVC158 – Basics of NVC (video tape)
+- NVC152/NVC153 – Making Life Wonderful (video tape)
+- NVC0404 – Basics of NVC (DVD)
+- NVC0511 – Making Life Wonderful (DVD)
+- NVC0300 – Quick Cards: Process of NVC, Basics Needs, Feelings
+
+(from [certified trainer agreement](http://eqi.org/p1/uruguay/nvc/Summary-CNVC-Certified-Trainer-Agreement-2011-3-14.rtf))
+
 ## Other
 
 * [Emotional Competency - Study Guide](http://www.emotionalcompetency.com/searchsite.htm)
