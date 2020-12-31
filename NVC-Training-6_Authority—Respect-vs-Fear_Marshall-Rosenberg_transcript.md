@@ -100,7 +100,7 @@ Let me show you what I mean by this. When I work with parents, I have done this 
 
 In this role play, I tell each group in both rooms, the other person has borrowed something from you. Right what you would say to this person, then write down what you predict they would say back and keep this dialogue going. 
 
-So both groups in both areas have the same situation. How do you communicate with somebody who borrows something but doesn't return? The only difference is in one of the groups I tell them that the other person is one of their neighbors. In the other group, I tell them, it's one of their children. When the group's finished with this dialogue, they come in and put it up on the wall so that everybody can see what each of the groups in the different rooms did. 
+So both groups in both areas have the same situation. How do you communicate with somebody who borrows something but doesn't return? The only difference is in one of the groups I tell them that the other person is one of their neighbors. In the other group, I tell them it's one of their children. When the group's finished with this dialogue, they come in and put it up on the wall so that everybody can see what each of the groups in the different rooms did. 
 
 I asked the whole group then which group showed the most compassion. Now, they still didn't know they were dealing with a different person, they both thought they had the same situation. 
 

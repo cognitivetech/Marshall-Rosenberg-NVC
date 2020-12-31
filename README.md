@@ -216,6 +216,7 @@ Make a concrete request for action to meet the need just identified. Ask clearly
 * [NVC Informational Handouts](https://nvcnextgen.org/aboutnvc/nvc-handouts/)
 * [Work Collaboratively - Learning Resources](https://workcollaboratively.com/resources/learning-resources/)
 * [NVC Academy](https://nvctraining.com/)
+* [Resource Library](https://evccc.discussioncommunity.com/?forum=356669) East Van Compassionate Communication Community
 
 ### Online Practice and Virtual Training
 
