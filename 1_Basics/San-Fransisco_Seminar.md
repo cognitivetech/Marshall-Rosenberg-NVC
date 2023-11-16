@@ -1,21 +1,27 @@
-# The Basics of Nonviolent Communication with Marshall B. Rosenberg, PhD - Transcript
+# The Basics of Nonviolent Communicatio
 
-> The following presentation is from a 1 day Introductory Workshop held in San Francisco, CA
+> The following presentation is from a 1 day Introductory Workshop held in San
+> Francisco, CA
 
-[NVC Marshall Rosenberg - San Francisco Workshop - FULL ENGLISH SUBTITLES TRANSCRIPTION](https://www.youtube.com/watch?v=l7TONauJGfc&list=PLPNVcESwoWu6yEIvjB7oPcZui39OoO1ie)
+[YoutuTube Link](https://www.youtube.com/watch?v=l7TONauJGfc&list=PLPNVcESwoWu6yEIvjB7oPcZui39OoO1ie)
 
-![](http://i.imgur.com/yoSbDZb.png)
+![YouTube Still](http://i.imgur.com/yoSbDZb.png)
 
 ## Part 1
 
 #### The Purpose of Nonviolent Communication & Expressing Observations and Feelings
 
-First let me begin by clarifying the purpose of Nonviolent Communication. Its purpose is to help you to do what you already know how to do. Why do we need to learn something today that you already know how to do? Because sometimes we forget to do this. We forget because we've been educated to forget.
+First let me begin by clarifying the purpose of Nonviolent Communication. Its
+purpose is to help you to do what you already know how to do. Why do we need to
+learn something today that you already know how to do? Because sometimes we
+forget to do this. We forget because we've been educated to forget.
 
-Now what is it that i'm talking about that we already know how to do? **The purpose of this process is to help us to connect in a way that makes natural giving possible.**
+Now what is it that i'm talking about that we already know how to do? **The
+purpose of this process is to help us to connect in a way that makes natural
+giving possible.**
 
-01:01
-What do I mean by natural giving? Let me do you a song to make it clear what i mean by natural giving.
+01:01 What do I mean by natural giving? Let me do you a song to make it clear
+what i mean by natural giving.
 
 #### Given To
 
@@ -41,9 +47,18 @@ given to.
 
 - Ruth Bebermeyer
 
-You all know that giving, you know how to do it, and that's what i'm interested in. Remembering to stay with that quality of giving, moment by moment, in any connection. But we also all know that it's easy to lose that connection, so that instead of enjoying that quality of giving which is possible every moment in every contact we have. In spite of how precious that is we forget.
+You all know that giving, you know how to do it, and that's what i'm interested
+in. Remembering to stay with that quality of giving, moment by moment, in any
+connection. But we also all know that it's easy to lose that connection, so
+that instead of enjoying that quality of giving which is possible every moment
+in every contact we have. In spite of how precious that is we forget.
 
-Instead of playing the game that song is about which i call making life wonderful for us, it's the most fun game i've ever heard. Instead, much of the time we play another game called who's right? have you ever played that game? It's a game where everybody loses. Isn't this amazing? We all know about this quality of giving that this song is about, it's possible every moment, we find that the richest thing to do.
+Instead of playing the game that song is about which i call making life
+wonderful for us, it's the most fun game i've ever heard. Instead, much of the
+time we play another game called who's right? have you ever played that game?
+It's a game where everybody loses. Isn't this amazing? We all know about this
+quality of giving that this song is about, it's possible every moment, we find
+that the richest thing to do.
 
 ### Much of our life we end up playing who's right
 
