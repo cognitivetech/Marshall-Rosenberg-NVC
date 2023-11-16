@@ -2,24 +2,24 @@
 
 #### If you find these materials useful, [please contribute to BayNVC](https://baynvc.org/donations/)
 
-**Bay Area Nonviolent Communication** 
-P.O. Box 22872 
-Oakland, CA 94609 
-510-433-0700 
-nvc@baynvc.org 
+**Bay Area Nonviolent Communication**
+P.O. Box 22872
+Oakland, CA 94609
+510-433-0700
+<nvc@baynvc.org>
 [www.baynvc.org](https://www.baynvc.org)
 
 **More Free Worksheets and Journaling Guides**
 [www.baynvc.org/free-worksheets/](https://baynvc.org/free-worksheets/)
 
-**Center for Nonviolent Communication** 
-5600 San Francisco Rd. NE Suite A 
-Albuquerque, NM, 87109 
-505-244-4041 
-cnvc@cnvc.org 
+**Center for Nonviolent Communication**
+5600 San Francisco Rd. NE Suite A
+Albuquerque, NM, 87109
+505-244-4041
+<cnvc@cnvc.org>
 [www.cnvc.org](https://www.cnvc.org)
 
-**Website for NVC publications** 
+**Website for NVC publications**
 [www.nonviolentcommunication.com](https://www.nonviolentcommunication.com)
 
 ## TOC
@@ -78,7 +78,7 @@ Give yourself between 5-20 minutes for this process, ideally in a location where
 <small>© 2014 Inbal Kashtan and Miki Kashtan • nvc@baynvc.org • [www.baynvc.org](https://www.baynvc.org) • 510-433-0700
 If you want to share these materials, visit http://bit.ly/material-share for information about what we ask of you.</small>
 
-### Purpose:
+### Purpose
 
 This guided reflection is intended to support you in experiencing a variety of ways to connect with your needs, which you can use at any time in your daily life. People resonate differently with these different ways. You may want to explore each of these to see which support you in gaining more self-connection and inner freedom. You can use these reflections as a series or separately from each other.
 
@@ -95,7 +95,7 @@ This guided reflection is intended to support you in experiencing a variety of w
 <small>© 2014 Inbal Kashtan and Miki Kashtan • nvc@baynvc.org • [www.baynvc.org](https://www.baynvc.org) • 510-433-0700
 If you want to share these materials, visit http://bit.ly/material-share for information about what we ask of you.</small>
 
-### KEYS:
+### KEYS
 
 a. Whenever our capacity in a certain area is not matching our desire, we face a dual challenge: at one and the same time both increase our self-acceptance and stretching to grow in our capacity.
 
@@ -115,7 +115,7 @@ If you want to share these materials, visit http://bit.ly/material-share for inf
 1. Think of something you've done that you feel regret about. Write down what it is in observations (without judgments).
 2. What are judgments you have of yourself in relation to what you've done? Write them down, as much as possible without editing.
 
-### A. Mourning:
+### A. Mourning
 
 1. How do you feel in relation to what you did? Notice and note both emotions and physical sensations in your body.
 2. Identify which needs of yours were not met in choosing this action:
@@ -125,7 +125,7 @@ If you want to share these materials, visit http://bit.ly/material-share for inf
 4. Take a moment to breathe and check in with yourself. Do you notice more judgments? If yes, write them down.
 5. Again, identify feelings and needs behind these judgments. Pause each time you identify a feeling or a need to experience it as much as possible.
 
-### B. Self-Compassion:
+### B. Self-Compassion
 
 1. Now shift your attention to the needs you were trying to meet when you did the thing you've regretted. Write them down and give your attention to connecting with them. You may also recall feelings from that time.
 2. How do you feel as you notice the needs you were trying to meet? Again, connect as much as you can with both emotions and physical sensations.
@@ -133,7 +133,7 @@ If you want to share these materials, visit http://bit.ly/material-share for inf
 4. Do you have any requests of yourself at this moment that may support you in meeting your needs?
 5. If you notice any self-judgments arise, connect once again with the feelings and needs behind them. Continue to shift back and forth between mourning and self-compassion until the mourning is free from self-judgments.
 
-## C. Self-Connection in the Moment:
+## C. Self-Connection in the Moment
 
 1. Read through all of the needs you have identified and connected with so far. Are there any needs of yours that are met by connecting with your needs right now? Is there any internal shift in your energy about the judgment? Any learning for you?
 2. If the judgment still seems as alive to you, consider the following question: Which needs of yours are you trying to meet by holding on to the judgment you have of yourself? How do you feel when you connect with these needs?
@@ -150,5 +150,5 @@ If you want to share these materials, visit http://bit.ly/material-share for inf
 7. What would have been another option for you to try in that moment that may have met your needs more fully? (If this question triggers any self-judgments, use the "Self-Judgments" journals, or take time for self- empathy.)
 8. Do you have any requests of yourself or others around you in relation to this situation?
 
-© 2014 Inbal Kashtan and Miki Kashtan • nvc@baynvc.org • [www.baynvc.org](https://www.baynvc.org) • 510-433-0700 
-If you want to share these materials, visit http://bit.ly/material-share for information about what we ask of you.
+© 2014 Inbal Kashtan and Miki Kashtan • <nvc@baynvc.org> • [www.baynvc.org](https://www.baynvc.org) • 510-433-0700
+If you want to share these materials, visit <http://bit.ly/material-share> for information about what we ask of you.

@@ -4,39 +4,39 @@
 
 #### If you find these materials useful, [please contribute to BayNVC](https://baynvc.org/donations/)
 
-**Bay Area Nonviolent Communication** 
-P.O. Box 22872 
-Oakland, CA 94609 
-510-433-0700 
-nvc@baynvc.org 
+**Bay Area Nonviolent Communication**
+P.O. Box 22872
+Oakland, CA 94609
+510-433-0700
+<nvc@baynvc.org>
 [www.baynvc.org](https://www.baynvc.org)
 
-**Center for Nonviolent Communication** 
-5600 San Francisco Rd. NE Suite A 
-Albuquerque, NM, 87109 
-505-244-4041 
-cnvc@cnvc.org 
+**Center for Nonviolent Communication**
+5600 San Francisco Rd. NE Suite A
+Albuquerque, NM, 87109
+505-244-4041
+<cnvc@cnvc.org>
 [www.cnvc.org](https://www.cnvc.org)
 
-**Website for NVC publications** 
+**Website for NVC publications**
 [www.nonviolentcommunication.com](https://www.nonviolentcommunication.com)
 
 #### Table of Contents
 
 * [Key Assumptions and Intentions of NVC](#key-assumptions-and-intentions-of-nvc)
-  * I. Assumptions Underlying the Practice of Nonviolent Communication
-  * II. Key Intentions when Using Nonviolent Communication
+    * I. Assumptions Underlying the Practice of Nonviolent Communication
+    * II. Key Intentions when Using Nonviolent Communication
 * [Basics of Nonviolent Communication](#basics-of-nonviolent-communication)
-  * I. Introduction
-  * II. Language, Practice, and Intention
-  * III. The Components of the NVC Language
-  * IV. Empathy
-  * V. Self-Empathy
+    * I. Introduction
+    * II. Language, Practice, and Intention
+    * III. The Components of the NVC Language
+    * IV. Empathy
+    * V. Self-Empathy
 * [Nonviolent Communication Quick Reference Guide](#nonviolent-communication-quick-reference-guide)
-  * Conventional Patterns of Communication
-  * Non-Empathic Responses
-  * Feelings/Emotions – Partial List
-  * Universal Human Needs – Partial List
+    * Conventional Patterns of Communication
+    * Non-Empathic Responses
+    * Feelings/Emotions – Partial List
+    * Universal Human Needs – Partial List
 * [Journal: Discovering Needs behind Actions and Choices](NVC-Basics_Journal-Exercises_BayNVC.md#journal-discovering-needs-behind-actions-and-choices)
 * [Journal: Layers of Self-Connection](NVC-Basics_Journal-Exercises_BayNVC.md#journal-layers-of-self-connection)
 * [Journal: Facets of Self-Connection](NVC-Basics_Journal-Exercises_BayNVC.md#journal-facets-of-self-connection)
@@ -291,7 +291,7 @@ The following are words we use when we want to express a combination of mental s
 | compassionate <br> friendly <br> loving <br> openhearted <br> sympathetic <br> tenderwarm | amazed <br> animated <br> ardent <br> aroused <br> dazzled <br> eager <br> energetic <br> enthusiastic <br> giddy <br> invigorated <br> lively <br> passionate <br> surprised <br> vibrant | expectant <br> encouraged <br> optimistic | calm <br> clearheaded <br> comfortable <br> centered <br> content <br> equanimity <br> fulfilled <br> mellow <br> quiet <br> relaxed <br> relieved <br> satisfied <br> serene <br> still <br> tranquil <br> trusting |
 | **CONFIDENT** | **EXHILARATED** | **JOYFUL** | **REFRESHED** |
 | empowered <br> openproudsafesecure | blissful <br> ecstatic <br> elated <br> enthralled <br> exuberant <br> radiant <br> rapturous <br> thrilled | amused <br> delighted <br> glad <br> happy <br> jubilant <br> pleased <br> tickled |  enlivened <br> rejuvenated <br> renewed <br> rested <br> restored <br> revived |
-| **ENGAGED** | **GRATEFUL** | **INSPIRED** | | 
+| **ENGAGED** | **GRATEFUL** | **INSPIRED** | |
 | absorbed <br> alert <br> curious <br> engrossed <br> enchanted <br> entranced <br> fascinated <br> interested <br> intrigued <br> involved <br> spellbound <br> stimulated | appreciative <br> moved <br> thankful <br> touched | amazed <br> awed <br> wonder | |
 
 ### B. Feelings we may experience when our needs are not being met
@@ -307,6 +307,7 @@ The following are words we use when we want to express a combination of mental s
 | Animosity <br> appalled <br> contempt <br> disgusted <br> dislike <br> hate <br> horrified <br> hostile <br> repulsed | ashamed <br> chagrined <br> flustered <br> mortified <br> self-conscious | | |
 
 ## Universal Human Needs – Partial List
+
 **_(without reference to specific people, time, actions, things)_**
 
 <small>© 2014 Inbal, Miki and Arnina Kashtan • nvc@baynvc.org • [www.baynvc.org](https://www.baynvc.org) • 510-433-0700 <br> If you want to share these materials, visit http://bit.ly/material-share for information about what we ask of you.</small>
@@ -317,9 +318,9 @@ _This list builds on Marshall Rosenberg's original needs list with categories ad
 | --- | --- | --- |
 | **_Physical Sustenance_** | **_Autonomy_** | **_Sense of Self_** |
 | Air <br> Food <br> Health <br> Movement <br> Physical <br> Safety <br> Rest / sleep <br> Shelter <br> Touch <br> Water | Choice <br> Ease <br> Independence <br> Power <br> Self-responsibility <br> Space <br> Spontaneity | Authenticity <br> Competence <br> Creativity <br> Dignity <br> Growth <br> Healing <br> Honesty <br> Integrity <br> Self-acceptance <br> Self-care <br> Self-connection <br> Self-knowledge <br> Self-realization <br> Mattering to myself |
-| **_Security_** | **_To Matter_** | **_Understanding_** | 
+| **_Security_** | **_To Matter_** | **_Understanding_** |
 | Consistency <br> Order/Structure <br> Peace (external) <br> Peace of mind <br> Protection <br> Safety (emotional) <br> Stability <br> Trusting | Acceptance <br> Care <br> Compassion <br> Consideration <br> Empathy <br> Kindness <br> Mutual Recognition <br> Respect <br> To be heard, seen <br> To be known, understood <br> To be trusted <br> Understanding others | Awareness <br> Clarity <br> Discovery <br> Learning <br> Making sense of life <br> Stimulation |
-| | **Community** | **Meaning** | 
+| | **Community** | **Meaning** |
 | | Belonging <br> Communication <br> Cooperation <br> Equality <br> Inclusion <br> Mutuality <br> Participation <br> Partnership <br> Self-expression <br> Sharing | Aliveness <br> Challenge <br> Consciousness <br> Contribution <br> Creativity <br> Effectiveness <br> Exploration <br> Integration <br> Purpose |
 | | | **Transcendence** |
 | | | Beauty <br> Celebration of life <br> Communion <br> Faith <br> Flow <br> Hope <br> Inspiration <br> Mourning <br> Peace (internal) <br> Presence |
