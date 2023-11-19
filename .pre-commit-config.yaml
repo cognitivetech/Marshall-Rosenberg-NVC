@@ -2,32 +2,32 @@ default_stages: [commit, push]
 exclude: (^.github/|^docs/site/|^images/)
 
 repos:
-  # - repo: https://github.com/executablebooks/mdformat
-  #   rev: 0.7.16
-  #   hooks:
-  #     - id: mdformat
-  #       name: Format Markdown
-  #       entry: mdformat # Executable to run, with fixed options
-  #       language: python
-  #       types: [markdown]
-  #       args: [--wrap, "80", --number]
-  #       additional_dependencies:
-  #         - mdformat-toc
-  #         - mdformat-gfm
-  #
-  # # run twice so that the TOC is updated to 4-indent
-  # - repo: https://github.com/executablebooks/mdformat
-  #   rev: 0.7.16
-  #   hooks:
-  #     - id: mdformat
-  #       name: Format Markdown
-  #       entry: mdformat # Executable to run, with fixed options
-  #       language: python
-  #       types: [markdown]
-  #       args: [--wrap, "80", --number]
-  #       additional_dependencies:
-  #         - mdformat-mkdocs
-  #
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.16
+    hooks:
+      - id: mdformat
+        name: Format Markdown
+        entry: mdformat # Executable to run, with fixed options
+        language: python
+        types: [markdown]
+        args: [--wrap, "80", --number]
+        additional_dependencies:
+          - mdformat-toc
+          - mdformat-gfm
+
+  # run twice so that the TOC is updated to 4-indent
+  - repo: https://github.com/executablebooks/mdformat
+    rev: 0.7.16
+    hooks:
+      - id: mdformat
+        name: Format Markdown
+        entry: mdformat # Executable to run, with fixed options
+        language: python
+        types: [markdown]
+        args: [--wrap, "80", --number]
+        additional_dependencies:
+          - mdformat-mkdocs
+
   - repo: https://github.com/pre-commit/pre-commit-hooks
     rev: v4.4.0
     hooks:
