@@ -59,7 +59,9 @@ that touches me very much about this. It really speaks powerfully to me about
 what happens when I do empathize. How no matter what the person is saying. It
 allows me to see the beauty in them.
 
-2:59  
+2:59
+
+```text
 See me Beautiful,
 look for the best in me.
 That's what I really am,
@@ -75,6 +77,7 @@ could you find a way,
 to see me shining through
 every thing I do
 and see me beautiful.
+```
 
 ## Components of Empathy
 
@@ -225,7 +228,7 @@ used to beat you. It was pretty scary.*" Now the focus goes into the present,
 doing that?*"
 
 So they may have felt scared in the past, when their father did that, but at
-this moment as thier recalling it, they may be feeling rage.
+this moment as their recalling it, they may be feeling rage.
 
 #### That's where the empathic connection comes in, in the present feeling, not what happened in the past
 
@@ -382,7 +385,7 @@ through verbally reflecting our understanding.
 
 ## Connecting before correcting
 
-23:16  
+23:16
 
 #### Empathy is not giving advice, and empathy is not correcting
 
@@ -876,7 +879,7 @@ I want to maintain that the interruption I'm suggesting is not one to take the
 conversation away from the person, but to bring the person back to life, to
 what's alive in them at this moment, behind all the words.
 
-#### Excercise
+#### Exercise
 
 ## Connecting with what's alive in someone
 
@@ -904,7 +907,7 @@ I realized how much I was telling myself that if I am honest about this, the
 other person might say to me, "the problem was you is that you're too
 sensitive" or something like that.
 
-59:23  
+59:23
 
 #### I could see that I was telling myself that my safety depended on how other people might respond to me
 
@@ -983,7 +986,9 @@ everybody's needs can get met.
 
 [That night she wrote this song](http://ryanrowe.com/reflections/words-are-windows-ruth-bebermeyer/):
 
-1:04:46  
+1:04:46
+
+```text
 I feel so sentenced by your words.
 I feel so judged and sent away
 before I go I'd like to know
@@ -1013,6 +1018,7 @@ Words are windows or they're walls
 They sentence us or set us free
 when I speak and when I hear
 let the love light shine through me
+```
 
 #### Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundstrue.com/)
 

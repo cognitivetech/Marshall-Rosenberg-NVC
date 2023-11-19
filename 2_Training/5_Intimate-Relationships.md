@@ -22,7 +22,7 @@ Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundst
 
 ## Introduction
 
-0:01  
+0:01
 In this session, I'll be talking about how Nonviolent Communication can support us in deepening our intimate relationships. Let's start with a dialogue that is likely to be heard in almost any intimate relationship, at least variations of it.
 
 One person says to the other, do you love me?
@@ -51,7 +51,7 @@ I go to my partner, and I say, I know you've got a lot of things planned today, 
 
 In other words, the more I go on with this kind of apology for having the need and justifying it, the harder it is for the other person to give out of loving energy.
 
-4:49  
+4:49
 It's very important is to develop a consciousness that our needs are precious gift if they are expressed in a way in which we are not demanding that the person meet our request, in relationship to our needs.
 
 If the other person trusts that when we say our needs, and we follow it with a request, that we only want them to do it, if they can do it willingly, joyfully.
@@ -88,7 +88,7 @@ She said, I didn't know what to do. I was desperate. I called my mother, she liv
 
 I said, Oh, I see.
 
-9:25  
+9:25
 She told me further about this husband and how no matter what she ever asked for, or ever wanted, the husband did.
 
 I had a guess right away what was going on. This husband was one of these very nice loving people who believes that he's responsible for the happiness of the other person, and that in order to be loved himself, he must deny his needs and always take care of the other person. It's always seems very wonderful for the other person until one day one day, like this woman, you pay for it.
@@ -119,7 +119,7 @@ That requires giving up your own honesty, your own integrity, you must always do
 
 That's why it's so much easier for many people to respond to a need of a neighbor than it is to respond to the person that they're the closest with.
 
-14:04  
+14:04
 Men and women seem to get different kinds of cultural education that make intimacy difficult for them, in different ways.
 
 For example, many of the women I work with have a difficult time expressing their needs. They have internalized cultural programming that says that loving women have no needs. Ao demonstrate their love for others, they believe that you must suppress your needs in favor of the other person.
@@ -172,7 +172,7 @@ I'd like you to tell me, if are getting together in about a half an hour. Would 
 
 #### We never say "I can't, I don't have time."
 
-19:35  
+19:35
 We go through the process I mentioned. And then the person is better able to see that their need was received as a gift, and that we care about their need, even if, at this moment, there's a need of ours that keeps us from doing what the person wants.
 
 ### Someone who doesn't know how to say no
@@ -219,7 +219,9 @@ This is very important to work out in intimate relationships, how each party can
 
 I'd like to do a song now of what happens when we don't express our feelings and needs honestly. What can happen when our partner does express their feelings and needs openly and honestly, but we don't receive it. empathically when we do that, the person that we love the most, could become a festival of pain, as described in this song.
 
-26:19  
+26:19
+
+```text
 Yes I know that I can always count on you
 I can always count on you, to come up with something new
 Along about the time I think you've done all you can do to me,
@@ -240,10 +242,11 @@ For some brand new humiliation
 Some well thought out and novel degradation
 You're a festival of pain, and I keep coming back again.
 Cuz I know I can always count on you.
+```
 
 ## Needs before Strategies
 
-28:01  
+28:01
 Another problem that often makes it hard for people to enjoy giving in an intimate relationship is when their partner skips the need and just expresses their pain and goes immediately to a strategy.
 
 > For example, if a person says to their partner, I'm feeling very hurt. You've only been home two days out of the last month, in the evening, would you please correct your schedule so that you are home at least four evenings a week.
@@ -281,7 +284,7 @@ One of the things that we recommend is that they get so good at expressing these
 
 In fact, we suggest that to really enjoy sex, you have to know how, in the middle of sex to communicate clearly scary messages. In our weekends that we do for couples, we often do a little exercise on what this would look like, how you would express, in the middle of the sexual act, when your needs are not getting met. How you could do this in a way that would be a gift to the other person?
 
-32:43  
+32:43
 People find this very scary to even think of. Oh my goodness, how unromantic, in the middle of the sexual act, to express clearly what is not meeting one's needs and what would better meet them. They think, wouldn't that take away all the romance and joy out of sexuality that has such a conversation in the middle of the act?
 
 Well, it may have that association of not being very romantic, and it may go against the cultural programming, that if you're really competent man and woman, you don't have any problems in your sexual relationships, they just flow. The reality is, the degree to which you can be honest about such sensitive issues, even in the middle of the sexual act, I predict this is one of the best ways to enjoy sexuality more and more.
@@ -290,14 +293,14 @@ That could sound like this. One partner is in a mood for sexuality and communica
 
 The other party might be really wanting to finish reading what they were reading. And they were really involved in it. Now how do you, when you sense your partner right now is really in a mood for sexuality, how do you respond to that?
 
-34:28  
+34:28
 Well, some people would deny their needs and feel like "oh my goodness, I have to please my partner now." They might put down what they were reading and put on a smile and say, Hey, what's going on?
 
 If they do that, and continue with the sexual act, when they're not really into it, the other person is highly likely to be sensing that they're not into it and It's probably not going to be a very enjoyable experience for both people. If it is for one to the one who gave in. It's going to have some association with sexuality that both people will pay for it because if we give up our needs for our partner, in any aspect of relationships, everybody pays for it eventually.
 
 If the people are courageous and skilled, honesty is Nonviolent Communication supports the person who was reading, but again, start with empathic response to the other person either non verbally just showing by look that we see the other person is reaching out to us sexually. Or might just say words that show that looks like you'd like some real closeness and love on it and the other person say Yeah.
 
-36:02  
+36:02
 And now comes how to say no, honestly, as we've talked about. A person might say, I'm torn right now, I really would like to get into it with you. And yet at the moment, I'm not really there. I'm kind of caught in this article I'm reading. How would it be for you if we get into this in about 20 minutes? That would be how to express oneself even in the middle of intimacy, when our needs may not coincide at that moment when the needs are not the problem there.
 
 Of course, it's the strategy because in that case, the problem was that one person would like to get into the sexual act, but not at this moment. Their strategy was for in a different time.
@@ -334,7 +337,7 @@ Many people carry the idea that there are certain jobs that the man should do ce
 
 #### Nonviolent communication suggest that we really make sure that everything we're doing is done willingly
 
-41:03  
+41:03
 And it's done out of an energy that comes when we see that we are enriching life. And it's meeting our need to enrich life so that we never feel as though we are sacrificing ourself for the other people.
 
 When I do empathy training for women, many of the women that I work with find it very hard to hear their partner's needs without losing their own needs, other people's needs are more important to them.
@@ -347,7 +350,7 @@ They can tell from their feelings, there's a different energy, when we are givin
 
 Many of the men that I work with have a cultural status, A type, that as a man, they are totally responsible for their woman's smile and happiness so that if she's not smiling and happy, it means they have failed somehow as a man. Very often, this makes it hard for them to say no. Because they're afraid that if they say no, they're partner's going to be unhappy, and the very sign of the woman being unhappy, they interpret that I'm not a very competent man.
 
-Especially if the woman is not satisfied, totally, sexually, many men take it as a sign of their own inadequacy, rather than just empathically connecting with the woman to find out how the womans needs could be better met.
+Especially if the woman is not satisfied, totally, sexually, many men take it as a sign of their own inadequacy, rather than just empathically connecting with the woman to find out how the woman's needs could be better met.
 
 When we take responsibility for other people's feelings, rather than our own actions, that is when our giving is mixed. It doesn't contain the pure joy of giving that's necessary for relationships to be strengthened.
 
@@ -367,7 +370,7 @@ The husband said, "we've been over the needs many times, many times and we don't
 
 I said, Well, let's try again. And he said, Well, here's the problem. My need is I need needed a divorce. And she said she needs to keep the relationship together.
 
-46:06  
+46:06
 I could see right away what the problem was. They had gone immediately to strategies, and neither of them really knew what needs of the other person weren't being met.
 
 I pointed this out, that what I call a need doesn't involve a strategy. It's separate from the strategy, and that getting a divorce or staying together is the strategy.
@@ -396,7 +399,7 @@ They could see how different it would be for the children to be with either pare
 
 ## Vulnerable Feelings for Men
 
-50:33  
+50:33
 
 **The john wayne consciousness that I developed growing up as a male has made it a real challenge to express my vulnerable feelings when I've been hurt or scared.**
 
@@ -434,7 +437,7 @@ I did a role play with another woman who told me about a husband that wasn't exp
 
 In playing the husband's role, I said, wife it's hard for me to express my feelings because all this cultural training telling me I shouldn't have these vulnerable feelings. It's like I put them in a part of myself and lock that up. In locking that up, I feel safe, but I feel very vulnerable if I let any of it out. Is that clear to you?
 
-56:04  
+56:04
 This man who saw me playing that role.
 
 He said, That's me.

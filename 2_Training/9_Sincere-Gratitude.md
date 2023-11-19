@@ -4,7 +4,7 @@
 
 [Nonviolent Communication 9 Marshall Rosenberg](https://www.youtube.com/watch?v=3JXcbtjIzas&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3&index=9)
 
-[![](http://i.imgur.com/ehy0DcE.png)](https://www.youtube.com/watch?v=3JXcbtjIzas&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3&index=9)\
+[![YouTube Still](http://i.imgur.com/ehy0DcE.png)](https://www.youtube.com/watch?v=3JXcbtjIzas&list=PLPNVcESwoWu4lI9C3bhkYIWB8-dphbzJ3&index=9)\
 
 Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundstrue.com/)!!!
 
@@ -24,7 +24,7 @@ Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundst
 
 ## Introduction
 
-0:00  
+0:00
 In this session, I'll be talking about the role that sincere gratitude plays in helping us to remember what Nonviolent Communication is intended to serve. And to help us to maintain the energy that it takes to stay compassionate in a world that often makes that quite challenging.
 
 In an earlier session, I described the spirituality that Nonviolent Communication was designed to serve. **This process Nonviolent Communication has great power to enrich our lives, when it is our intention to create the connections necessary for compassionate giving to take place**. It's a great tool to support our being conscious of what's alive in others, and to hear what's alive in others in a way that makes giving enjoyable.
@@ -55,7 +55,7 @@ By celebrating life, **I mean that we let people know how our needs have been fu
 
 ## Expressing Gratitude
 
-4:17  
+4:17
 The difference between Nonviolent Communication and other forms of communication that involve giving praise and compliments is the way in which the gratitude is expressed in Nonviolent Communication.
 
 #### Gratitude is expressed by saying three things that allow the other person to see how their actions have enriched our lives
@@ -98,7 +98,7 @@ That is, what would they have said, to *make clear what we did*, and *how they f
 
 After the people have written down what the gratitude would have sounded like, had it been expressed in a Nonviolent Communication way, by the other person.
 
-8:37  
+8:37
 I asked them to imagine going to that person and doing the following. This might require a bit of imagination on your part, particularly if the other person is no longer alive. I say, whether the person is alive or not, **imagine going to that person and telling them that you were in a workshop that asked you to write down a gratitude that you would have loved to have received and didn't**.
 
 You tell this person, the gratitude that you would have liked to have received and didn't.
@@ -181,7 +181,7 @@ I got a real good start at this reading a passage of a book by John Powell calle
 
 He had never expressed this gratitude while the father was alive. It was very sad for him to see just how much his life had been enriched by the Father. And yet he hadn't expressed his gratitude and he got in touch with what kept him from doing it.
 
-17:59  
+17:59
 **What kept him from expressing the gratitude is while the father was alive, he had so much anger toward the father, that he didn't get in touch with the gratitude that he also felt**.
 
 This is so for most of us, when we're in a lot of pain, and we don't know how to deal with the pain, we get stuck in the pain.
@@ -222,7 +222,7 @@ I also asked him, I said, uncle, how did you learn to do that? How did you learn
 
 #### How have you managed to stay compassionate so well?
 
-22:40  
+22:40
 He liked the question, and he thought for a while and he said, Well, you know, I was very fortunate to have good teachers. **I also happened to be around people who, I saw, enjoyed contributing to other people's well being. It was easy to learn from them**.
 
 I said, Could you give me an example who one of these people were?
@@ -251,7 +251,7 @@ One day a man showed up at my mother's back door, he had a wild beard. Around hi
 
 She invited him into her kitchen. While he was sitting there eating, she asked him his name.
 
-24:54  
+24:54
 *And he said, my name is Jesus.*
 
 Now, my grandmother Ask him, and what is your last name?
@@ -278,36 +278,38 @@ I was very touched by this story of my uncle telling me how he had been enriched
 
 #### That night, a song came to me about my grandmother and Jesus
 
-> One day a man named Jesus
-> came around to my grandmother’s door.
-> He asked for a little food,
-> she gave him more.
->
-> He said he was Jesus the Lord;
-> she didn’t check him out with Rome.
-> He stayed for several years,
-> as did many without a home.
->
-> It was in her Jewish way,
-> she taught me what Jesus had to say.
-> In that precious way,
-> she taught me what Jesus had to say.
->
-> And that’s: “Feed the hungry, heal the sick,
-> then take a rest.
-> Never walk when you can dance;
-> make your home a cozy nest.”
->
-> It was in her Jewish way,
-> she taught me what Jesus had to say.
-> In her precious way,
-> she taught me what Jesus had to say.
+```text
+ One day a man named Jesus
+ came around to my grandmother’s door.
+ He asked for a little food,
+ she gave him more.
+
+ He said he was Jesus the Lord;
+ she didn’t check him out with Rome.
+ He stayed for several years,
+ as did many without a home.
+
+ It was in her Jewish way,
+ she taught me what Jesus had to say.
+ In that precious way,
+ she taught me what Jesus had to say.
+
+ And that’s: “Feed the hungry, heal the sick,
+ then take a rest.
+ Never walk when you can dance;
+ make your home a cozy nest.”
+
+ It was in her Jewish way,
+ she taught me what Jesus had to say.
+ In her precious way,
+ she taught me what Jesus had to say.
 
 —“Grandma & Jesus” by Marshall B. Rosenberg
+```
 
 ## Other reasons we don't express gratitude
 
-28:30  
+28:30
 Now I'd like to discuss the reasons that people tell me that they themselves have not expressed gratitude yet, that they want to be sure they do express.
 
 What they think the reasons might have been why gratitude they would have liked to have received, but they didn't.
@@ -347,7 +349,7 @@ I could understand from the life that he led as a child why that happened. My gr
 
 ## Receiving Gratitude
 
-32:27  
+32:27
 I thought how horrible that would be for people to not get gratitude. Over the years since then, I've asked a lot of groups, are there anybody in the group that has never received a sincere gratitude, as we're learning how to express now?
 
 **It's sad to me how many people in the group cannot recall really receiving a sincere gratitude that deeply enrich their lives**. They can recall people saying some thank yous, but they **couldn't remember ever receiving a gratitude expressed**, that clearly communicated, **what was alive in the other person when they did what they did** for that person, and how that person's life was enriched.
@@ -400,7 +402,7 @@ A third, commonly expressed reason people tell me They don't receive the gratitu
 
 > Doesn't that mean you're egotistical to take in gratitude and feel good about it? We should be humble.
 
-37:18  
+37:18
 I warn people about that concept, how to not get it mixed up. Certainly we don't want to think we're greater or better than anybody else.
 
 #### If we think that to be humble means to deny and not take in the beauty of what we can do, how sad
@@ -435,7 +437,9 @@ It really helped me to see how important it was to learn how to receive gratitud
 
 ### When I come gently
 
-41:37  
+41:37
+
+```text
 When I come gently to you,
 I want you to see
 it's not to get myself from you,
@@ -462,8 +466,9 @@ it's just to give you me.
 I know you can give me, me,
 no matter what you do.
 All I ever want from you, is you.
+```
 
-43:25  
+43:25
 Two weeks later, we both had an opportunity to continue our learning about how difficult it was, both to express gratitude, and not have it received well, and why it was so difficult to receive it. Except now we reversed the roles because two weeks later, I was expressing a deep gratitude to her, about how much the music that she brought into our training, how much it enriched my work and my life.
 
 I expressed it pretty deeply and I could see that she couldn't take it in, and I could see how badly it felt to really be coming from the heart with a gratitude and not have an empathic reaction to that.
@@ -472,7 +477,9 @@ That night, she went home and could really see how hard it was for her to receiv
 
 #### This song is called *Why is it so hard to believe?*
 
-44:33  
+44:33
+
+```text
 Your arms are warm around me,
 their welcome is complete.
 Your voice it channels through me
@@ -503,10 +510,11 @@ Lets my loving live.
 
 To give is domination, if I can't also receive
 Why is it so hard to believe?
+```
 
 ## The Gratitude Book
 
-46:44  
+46:44
 Given that both giving and receiving gratitude is so important in maintaining our consciousness of the spirituality that is necessary for Nonviolent Communication to have its power.
 
 I think it's very important to look at our lives and see, are we creating the space to do it?
@@ -523,7 +531,7 @@ For example, one of the things that I have learned to do each day, which I'm ver
 
 Now, what do I put in that book?
 
-48:18  
+48:18
 
 #### I like to think of at least one thing that I have done within the last 24 hours that I want to celebrate
 
@@ -551,12 +559,12 @@ I write down those three things:
 * I write down how I feel about them having done that.
 * And I write down what need of mine was fulfilled by their doing that.
 
-50:19  
+50:19
 Then I draw flower, just to slow me down so I can just let in what they did and how good it felt.
 
 Then I asked myself this question, **have I expressed clearly to that person, just how much my life was enriched by that**?
 
-50:47  
+50:47
 Very often I find that I either didn't, or I expressed it in a lazy Nonviolent Communication way. Now, here's how you express gratitude and a lazy Nonviolent Communication way. You say thank you, and sometimes that's all we need to do sometimes just saying thank you, the person can see they know what they did, and can sense perhaps how we feel and what need was met.
 
 There are some gratitudes that I want to be sure the person really got clear just how much what they did enriched my life.
@@ -595,7 +603,7 @@ This was a prison I'd worked at before, and when I came in, the director of the 
 
 Well, there usually was a lot of tension. I thought it's probably going to be something today. Then as I got into room, I was with about 20 prisoners and about six guards. I could see in their faces, they were all upset and just ready to get at each other.
 
-55:40  
+55:40
 I said to them, before we start the workshop today, I know we got lots of tension to deal with. But I've been thinking on the way here's something a friend told me yesterday about what he called sneaky bragging and how people are reluctant to express something they've done that they feel good about.
 
 #### So before we get into all the heavy stuff today, let's go around, and I'd like each of you to tell me one thing you've done recently that you feel good about
@@ -624,11 +632,11 @@ Sadly most of them tell me no. I have been recommending to families that I work 
 
 My wife and I take time every morning before we go off into the world. This opportunity to stop and express openly what the other has done that has enriched our life to tell them as best we can, how it enriched our lives.
 
-59:12  
+59:12
 
 #### What a wonderful way to start the day
 
-59:17  
+59:17
 I tell people to look at their work setting, are they expressing gratitude and receiving gratitude in their workplace.
 
 In many of the places that I work, they just can't even imagine it. For example, I was working in a big business in Madison, Wisconsin.
@@ -637,7 +645,7 @@ After three days of showing them how Nonviolent Communication could help them in
 
 After showing them how to express and receive gratitude in a Nonviolent communication way.
 
-60:00  
+60:00
 I asked him, do you take time anytime in your meetings to express gratitude?
 
 A couple of the people kind of laughed, because even the thought of doing that seems strange to them.
@@ -660,45 +668,47 @@ While we're on this subject of gratitude, I would like to express my deep gratit
 
 I've been offering you that which is very precious in my life, and it's quite a gift that you have given me your presence to receive this.
 
-1:02:33  
+1:02:33
 I hope that these sessions have strengthened your awareness of the preciousness of connection. It is possible for us at any time with any person. A precious connection that I like, is described beautifully for me in the following song
 
 #### and the song is Revelation
 
-> I stand with you in wonder,
-> and somewhere from the past
-> a phrase that tells about a burning bush
-> comes flashing through my mind.
->
-> Smile if I should call you
-> a flaming revelation.
-> And yet that you reveal to me
-> your feelings and needs honestly
-> is giving of a shining sacred kind
->
-> still before your gift of self
-> for the presence you present
-> hear the ancient image speak,
-> stand on holy ground.
->
-> Remembering that barefoot
-> is appropriate for such a place
-> I laugh with joy to cast aside
-> the heavy shoes that hold them high
-> and suddenly I dance with newfound grace
->
-> You have given to me,
-> so I expose the depths of self to you.
-> Somehow we are one in love
-> Yet both of us are free
-> Touch is not to hold,
-> to burn with life is not to be consumed
-> reverence the mystery of human personality
-> is to encounter word made flesh in me
+```text
+ I stand with you in wonder,
+ and somewhere from the past
+ a phrase that tells about a burning bush
+ comes flashing through my mind.
+
+ Smile if I should call you
+ a flaming revelation.
+ And yet that you reveal to me
+ your feelings and needs honestly
+ is giving of a shining sacred kind
+
+ still before your gift of self
+ for the presence you present
+ hear the ancient image speak,
+ stand on holy ground.
+
+ Remembering that barefoot
+ is appropriate for such a place
+ I laugh with joy to cast aside
+ the heavy shoes that hold them high
+ and suddenly I dance with newfound grace
+
+ You have given to me,
+ so I expose the depths of self to you.
+ Somehow we are one in love
+ Yet both of us are free
+ Touch is not to hold,
+ to burn with life is not to be consumed
+ reverence the mystery of human personality
+ is to encounter word made flesh in me
+```
 
 ---
 
-1:05:15  
+1:05:15
 This concludes the [Nonviolent Communication Training Course with Marshall Rosenberg](https://nonviolent-communication-sfm.soundstrue.com/). Music by Stephen McNamara. For more information on the work of Marshall Rosenberg, please visit the worldwide web @ <www.cnbc.org>.
 
 If you would like to order additional copies of this audio learning series, or to receive a complete catalogue of wisdom teachings for the inner life, please contact [Sounds True](https://www.soundstrue.com/store/).

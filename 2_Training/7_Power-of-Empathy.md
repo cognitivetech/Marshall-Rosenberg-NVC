@@ -23,7 +23,7 @@ Buy this course at [Soundstrue.com](https://nonviolent-communication-sfm.soundst
 
 ## Introduction
 
-0:00  
+0:00
 In this session, I'll be showing the power that empathy has in three functions, **healing**, **mediation**, and **reconciliation**.
 
 In the previous session, we looked at the dynamics of empathy. We saw how it requires our full presence to another person, and full presence on what's alive in them, what they're feeling and needing.
@@ -58,7 +58,7 @@ I value another book that helps show the other side that I'll be talking about m
 
 In this book, he looks at the human suffering that many people go through that is often referred to as a mental illness, not as an illness, but as an inevitable consequence of things that may have happened to this person in their life that caused great pain that they didn't know how to handle. He shows that **if we help these people to transcend that pain, to learn how to turn it into something constructive, the very pain can be something the person benefits by**.
 
-5:04  
+5:04
 This is the kind of way that I like to look at the pain that many people have brought to me over the years. If we look at this pain in a certain way, **we can come out of it stronger people than we would have been if we didn't have this experience.**
 
 #### I'd like to give you an example of what I mean by looking at Nonviolent Communication as it relates to the healing process
@@ -77,7 +77,7 @@ I'm aware of a lot of other research that's been done since then that shows that
 
 A second part of empathic contribution to healing, is when somebody who has been wounded and in pain as a result of things that have happened to them, if they can empathize with what was alive in the people who stimulated that, healing takes place with that.
 
-8:58  
+8:58
 In other words,
 
 * when we get empathy for our pain, that exists as a result of what was stimulated by others, that contributes to healing.
@@ -99,58 +99,58 @@ Usually this kind of work begins when I ask the other person, in the role of the
 
 Let's start with that daughter, I'm confident that I can empathically connect with whatever you want to say. So please tell me what's still alive in you, as a result of our prior relationship, that you'd like me to hear.
 
-11:47  
+11:47
 *I feel worthless and I feel totally rejected by all the men that I touch. I want to be in relationship. I've been through two divorces. And I do not know how to even connect with any man because of you, when I would come to you for any kind of a need that I really wanted you to listen to, you immediately would interrupt and would the first word that would come out of your mouth was that I deserved it and I was totally a no good stupid idiot, and I was a worthless female, girl.*
 
 *All those names are still haunting me every time any man that I have a relationship with his tries to get close to me. I don't trust them. Because of you. It's all because of you and I'm I'm just beyond... That's what's alive right now is that I don't know where to go. I'm 30 years old. I've been through two divorces and I'm miserable and alone.*
 
-13:00  
+13:00
 Well, I want to be sure that I'm taking all of that in daughter. That's very precious. And I'm grateful to you for willing to open up. But I want to be sure I'm hearing you. So what I'm hearing is that there's still a great deal of pain in you, hurt, that your need for respect wasn't met by the way I would respond to you at times. As a result of that, you're feeling rather desperate about how it's affecting your present relationships with other men, and how it's keeping you from getting your needs for closeness met. Am I hearing you correctly?
 
-13:45  
+13:45
 *I'm just right now burning with steam for you to even say precious. I feel cheated. By all that. You said yes, you are hearing me, but at the same time, I'm doubting you. I don't trust you.*
 
-13:59  
+13:59
 In addition to those feelings I'm hearing there's still a great deal of rage on your part. Because what I did was hard for you to see in any way except as something that was a violation of you. And then I'm hearing that it's hard for you to trust right now, even when I'm trying to understand you in this way. You'd like some understanding how hard it is for you to trust me now since this is different than I've communicated to you in the past.
 
-14:32  
+14:32
 *Yes, I feel all the put downs and all the criticism, from the time I would want to sit in your lap, you didn't even want me to even get close to you. I thought there was something wrong with me that I was totally a mess. I grew up feeling this worthlessness of not being even visible. I wanted you, I want you to look at me, you overpowered me from the time I was little.*
 
-15:08  
+15:08
 What I'm hearing is that still exist in you a great deal of hurt, that your need to feel valued wasn't met in our relationship and you're still carrying this, this pain in you that whatever is you will not really meet with acceptance. Am I hearing this correctly?
 
-15:34  
+15:34
 *Yes you are. Yes. It's about that shame that I still have inside. Every time I think about wanting to even think about you, I start feeling all this guilt that you always would put on me, especially when I would come home from school and something would happen and you would turn it around and hit me and get the belt and just leave me on the floor and didn't care whether I was crying, and if I cried even a little bit louder then you would come and hit me more so that I would shut up.*
 
-16:10  
+16:10
 You're still suffering the pain of those times when you really need understanding and got quite the opposite, instead of being understood for what was bothering you when you were crying, you heard a criticism, you felt you received punishment, and you'd like me to be aware of how that has affected you, that it's leaving you now feeling scared to reveal yourself? Am I hearing you correctly?
 
-16:41  
+16:41
 *Yes, you are. Yes, I can for the first time hear that you are listening.*
 
-16:51  
+16:51
 I'd like then, to tell you daughter what goes on in me when I hear this. If you're willing for me to talk now, can you hear me now?
 
-17:01  
+17:01
 *Yes, I can I hope I can.*
 
-17:05  
+17:05
 First thing I want you to hear is how sad I am this deeply, deeply sad. I would have liked to have met your need for acceptance and I would have liked for your you to feel safe around me. So I'm really sad that I didn't know how to express myself differently when you were young. I was so caught up in pain myself in my relationship with your mother and with other people. So caught up in that pain. And I did not talk about it with people. And I'm sad that it would come out toward you and toward the other children.
 
-17:50  
+17:50
 Could you tell me what you heard me say so I can see if I made myself clear?
 
-17:55  
+17:55
 *What I heard you say is that you are sad for not being able to to be there for me that you're caught up in your own pain with whatever was going on with you and mom and when we wanted you to be just there and loving us that you could not do that. So your sadness right now is very I'm hearing that I never heard that before. I was just scared of you.*
 
-18:31  
+18:31
 And I very much I'm grateful for you hearing me this way. And I'd like to know how you feel when I tell you.
 
-18:40  
+18:40
 *I'm relieved. I'm relieved because I thought I had done something wrong.
 And I'm sad for you*.
 
-18:49  
+18:49
 I'm so sad that I didn't know a way of expressing my pain that would wouldn't have left you feeling there was something wrong with you. I wish I could have just said, at that time, I'm in so much pain daughter, it's hard for me to hear you cry. I wish I could have done anything except communicate in a way that would contribute to your feeling that you weren't valued. So I'm grateful to you for having this dialogue with me now.
 
 #### That's how healing sessions often go when we apply Nonviolent Communication to the healing
@@ -165,7 +165,7 @@ If the person is very depressed. They usually don't know how to tell me really w
 
 Most people who I find are very depressed, do not know how to express and stay connected to their feelings and needs. **They feel their depression because of how they think about themselves. And they think about themselves this way, not because they have an illness called depression. But because they have been educated to think about themselves in a way that creates depression**.
 
-21:41  
+21:41
 For example, very often when somebody who's very depressed comes to me and wants to get out of this depression. I asked him this question to get started, what needs of yours are not being met right now?
 
 When the person is very depressed, they very seldom tell me what their needs are.
@@ -195,7 +195,7 @@ Example with my children, my need to contribute to their well being is strong in
 
 *Seeing it that way*, I might feel frustrated, I might feel sad, but those are quite different feelings and depression. That feeling that comes when I'm blaming and judging myself.
 
-26:39  
+26:39
 So, in healing work that I do, a very important part of it is to help people to become conscious that these judgments, that they're telling themselves, that create their misery, contain this valuable information if we can hear the needs of theirs, that are not getting met.
 
 ## Mediation
@@ -206,7 +206,7 @@ In mediation, where I am confronted with either two individuals who have a confl
 
 ### Married Couples
 
-27:58  
+27:58
 For example, was working with married couples. And when I do this, I often ask each couple to identify a conflict they haven't been able to resolve in their marriage. And when they have identified this, I asked them to identify how long this conflict has gone unresolved.
 
 When they do identify the conflict, I asked them to identify how long it's been going on. Then we find the conflict in the group that's been going on the longest. I make a prediction that people are rather skeptical, that I'll be able to fulfill this prediction. **I predict that will resolve the conflict within 20 minutes from the point at which each party can tell me what the other party's needs are**.
@@ -257,7 +257,7 @@ Well, that, of course, wasn't exactly what he said, he said she was totally irre
 
 <u>Here's a good example of that</u>. I asked for his needs, which were for financial security for the family, and he put it in the form of a diagnosis of her, that she was totally irresponsible.
 
-33:00  
+33:00
 I said to her, could you tell me back what your husband said his needs were?
 
 She said, he said that I'm irresponsible, he doesn't understand....
@@ -266,7 +266,7 @@ and I stopped her, and I said, hold it hold. So notice she's heard this criticis
 
 I repeated the need for her. **I said, I hear your husband say that he has a need for economic security for the family**. Can you just hear that? Within a couple of repetitions, she was able to see that his need was to protect the family economically, and that's why he wasn't letting her write any checks.
 
-34:01  
+34:01
 And then I helped her express her needs. Her needs were that she needed to be trusted that she could learn how to handle money. She wanted understanding and empathy from her husband that because she had overdrawn the checkbook didn't mean she couldn't learn.
 
 I said to the husband, **I hear your wife saying that she has a need to be trusted that she can learn, that's her need**. Could you repeat that back?
@@ -356,7 +356,7 @@ It took about an hour just to get both sides to express a need and to hear the o
 
 I'm convinced we don't have to have violence if we can learn how to connect with each other's needs. When we're conscious that we all have the same needs, when we're conscious that our enemy images of one another get in the way of our connecting at the need level. And when we see we can never win at someone else's expense.
 
-42:51  
+42:51
 
 #### That's how Nonviolent Communication can support us in mediation
 
@@ -388,7 +388,7 @@ He was referring to a law, at that time, which allowed Palestinians to be put in
 
 This was the Mayor's way of trying to express to the Palestinians how painful it was, how his needs for safety and respect weren't being met. His need for fairness and justice weren't being met. Very strong needs, but he didn't have the vocabulary to express these needs in that way. It came out, in the way that he expressed, *Are you satisfied to be acting like Nazis?*
 
-47:44  
+47:44
 Almost immediately, an Israeli women jumped up and started to go to the door and said to me, I knew I shouldn't have come to this meeting. I knew you couldn't work with these people. I jumped up and ran after her before she ran out, to give her some emergency empathy, I empathized with how painful it was for her to hear that.
 
 When she felt that I really understood her, she could hear my needs. I told her that I was confident that if she could come back, we could communicate and hear each other in a way that we could work together.

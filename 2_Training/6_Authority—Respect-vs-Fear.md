@@ -54,7 +54,7 @@ This mother was very clear, saying that she was using the kind of authority that
 
 > Working with human beings, when we're in positions of authority, we want people to do things because they choose to do it, because they see how it will enrich their lives and the lives of others to do it. That requires a radically different exercise of authority than many of us know how to do.
 
-5:19  
+5:19
 For example, in the family, people often believe that because they are the parent, that it gives them the right to impose their learning on their children. It's their job to make them behave. They haven't learned the lesson and my children taught me that you can't make anybody do anything. All you can do is make them wish they had. Whenever we do that, they'll make us wish we hadn't made them wish they had.
 
 **To use punishment and reward to get people to do things is very costly for the organization and for the relationships of people within the organization.**
@@ -79,7 +79,7 @@ A scary percentage of these students heard nothing but an order or a demand.
 
 They said you said that we had to uncross our legs.
 
-9:12  
+9:12
 They could hear nothing but an order they had been in schools, have been in families, or work situations where the authorities made orders.
 
 Other students said No, he didn't make a demand. He said it was wrong to have our legs crossed. It was disrespectful. So others heard criticism or judgments coming from me.
@@ -108,14 +108,14 @@ I asked the whole group then which group showed the most compassion. Now, they s
 
 So when we are in this position of authority called parent, if we don't watch out, we allow our cultural training to lead us to treat this person we label as our child in a way that's far less respectful and caring than people we would label as our neighbors.
 
-13:53  
+13:53
 So when I work with parents, we work at how to see this person that we might see as our child, but when we're talking with them, we want to be sure that the quality of the connection is the same as one would see in our relationship with an adult, for whom we had great esteem.
 
 Of course, our vocabulary may be different. We may have to use different words with somebody who's three years old, then with 33 years old. But I would hope that we would see the same empathy for this person as we would for an older person. **I would hope that we would show the quality of honesty where we revealed our own feelings and needs and request, not criticism and demands. Whether this person is three or 53**.
 
 An experience I had with my children that relates to this occurred once when I was doing a mediation between a street gang and the police department. In this conflict, three people had been killed, two gang members and one member of the police department. The members of the police department that I was working with were white and members of the street gang were black.
 
-15:23  
+15:23
 It was a very tense encounter. There was great stereotypes in the group that made it hard for them to relate as human beings. Instead of being able to see each other as humans, they saw each other by their labels, gang members or police. It was hard to get them to see each other's humaneness.
 
 I went home from this work, kind of exhausted, and when I got in my back door, my three children were fighting.
@@ -150,10 +150,10 @@ Institutions can have this effect on us if we don't watch out. When we are in th
 
 For example, [Stanley Milgram](https://www.simplypsychology.org/milgram.html) did some research. He had people come into this research and they were told that, in this research, they were going to play the role of teachers in the sense that someone in another room that they could see through a one way vision room, they were told is going to be a student learning something. And whenever they give a wrong answer to this, you are to be the teacher, and you will give him a punishment by pushing one of these 10 buttons on the control panel in front of you. Each button will give him a certain degree of electricity, a shock as punishment when he gets the wrong answer.
 
-20:29  
+20:29
 You are to push the next button each time he makes a mistake. And that will give him a greater shock each time. We're studying the effects of punishment on learning. So that's why we're asking you to do this.
 
-20:46  
+20:46
 What the participants in this research were not told is that the man in the other room wasn't getting any electricity. He was an actor. They were also told he was locked into the chair and couldn't get out. So the person in the other room, in answer to a question, makes a mistake and they push button one.
 
 The person in the other room, the actor jumps and says, Ouch, that hurt. I didn't know this was going to hurt so much. And another question came and then he gave another wrong answer. And then people who are participants in the research pushed the Next button. By the third or fourth button, the man in the other room was crying. Later he was begging please don't push anymore. This hurts so terribly. The last button was underneath a clearly marked possibly lethal. And still more than half of the people in the research pushed this button.
@@ -186,7 +186,7 @@ I gave away my power to this teacher. I read into the tone of her voice and her 
 
 *I took her message as a judgment that I had a terrible voice, and that I had no right to sing.*
 
-26:26  
+26:26
 Years later, a woman wrote some songs being stimulated by our workshop and when she played them for me, I saw how much music added to the work. I invited her in to sing the songs and some of my workshops, and it added a lot.
 
 After a while, we were sitting in my office one day and I said to her, you know that music you bring to our workshops periodically really adds a lot. I really miss it when you're not there.
@@ -211,37 +211,39 @@ So that afternoon, I bought a guitar and started to use music in my work. But be
 
 And so I wrote this song called the [crow with a crippled wing](https://www.youtube.com/watch?feature=player_embedded&amp=&v=tsu0hkHQlkA):
 
-> Though I play guitar
-> Like my fingers were stoned
-> And my voice is miles off key
-> I remind myself
-> Its OK to play whatever song is stirring in me.
->
-> Cause I believe everyone
-> has the right to dance and sing
-> even if they move and sound
-> like a crow with a crippled wing.
->
-> OK crows:
-> Caw caw caw caw caw caw caw caw caw caw caw caw
->
-> Though an ox may not move like Michael Jackson
-> when it starts to do its dance.
-> As far as I'm concerned
-> if an ox wants to boogie
-> I like to see it get a chance
->
-> Cause I believe everyone
-> has a right to dance and sing
-> even if they move and sound
-> like a crow with a crippled wing.
->
-> OK crows:
-> Caw caw caw caw caw caw caw caw caw caw caw caw
+```text
+ Though I play guitar
+ Like my fingers were stoned
+ And my voice is miles off key
+ I remind myself
+ Its OK to play whatever song is stirring in me.
+
+ Cause I believe everyone
+ has the right to dance and sing
+ even if they move and sound
+ like a crow with a crippled wing.
+
+ OK crows:
+ Caw caw caw caw caw caw caw caw caw caw caw caw
+
+ Though an ox may not move like Michael Jackson
+ when it starts to do its dance.
+ As far as I'm concerned
+ if an ox wants to boogie
+ I like to see it get a chance
+
+ Cause I believe everyone
+ has a right to dance and sing
+ even if they move and sound
+ like a crow with a crippled wing.
+
+ OK crows:
+ Caw caw caw caw caw caw caw caw caw caw caw caw
+```
 
 ### We're still free whatever institution we're in
 
-29:35  
+29:35
 Having learned that experience of how I had given up my authority to teachers to define what I can do and what I am, I certainly was conscious then, that every chance I got, whenever I was in an institutional structure, I certainly didn't want to give away my power to the authorities.
 
 I wanted to be respectful to what they had to offer. But I wanted to be sure that I never gave up what I can be, or can do, or what I am, to the people in authority diagnosing me.
@@ -258,7 +260,7 @@ And I thought to myself, Oh my goodness. What could it be that my perfect little
 
 She said Marla came to school today dressed in blue jeans. I told her that isn't how a young lady dresses, **and she said, Go to hell**.
 
-32:08  
+32:08
 Well, I felt like celebrating. Marla has graduated from being a perfect little subservient girl, to a real human being. ***I could see she was going through a middle ground that people often have to go through before they become a human being. They go through rebellion, before getting to fully being free in their own rights to choose for themselves***.
 
 It's important that we not be obedient to authority, that we always recognize our choice. It's also important to recognize that rebellion is only halfway to being fully free. If we're rebelling against authority, we're still recognizing its power over us.
@@ -297,7 +299,7 @@ I said, I did write the second day of the semester, a letter to the dean, tellin
 
 Another reason is I'm aware of research that shows that grades contain almost no reliability about what this person really knows. Two students can get the same grade from two different teachers in the same subject. You don't know that those students have learned the same thing, or can do the same things. And also grades lead students to learn get rewards the reward of grades, I only want my students to do things they see how it's going to enrich their life.
 
-37:10  
+37:10
 What I will do is give a very clear statement, measurable statement of what the students can do at the end of this semester that they weren't able to do at the beginning. I put all of that in a letter to the dean and said, I'd be glad to talk about this if he had some concerns, but I haven't heard from him. Does that answer your question, why I'm choosing to do something else other than give grades?
 
 Of course, they could have fired me at that institution, which they did later, but not for that. It was another rule that I didn't follow to their satisfaction and they chose to fire me.
@@ -312,7 +314,7 @@ My experience has been that when they see that I respect their right, they are f
 
 It's time for people in those positions to become conscious that you can't control people you can control the environment, but you cannot control people. **When we are in a position of authority, it is not the objective to control people. It is to offer people what we have to offer, from my position of authority, but not to impose it**.
 
-40:07  
+40:07
 In many of the institutions in which I work, when people do have themselves labeled as boss or as director or manager, they really have an image that such people have to be beyond having any feelings.
 
 #### They have a real fear in many of the institutions, in which I work, that you can't express feelings
@@ -323,7 +325,7 @@ One corporation in the United States asked me to do a special training, where **
 
 I first worked with the wives and heard their sadness, how hard it was for them to establish emotional connection with people who work in that other environment each day.
 
-42:22  
+42:22
 Then I worked with the men. I could see, very quickly, what the women were putting up with. They sat there, and it was very hard to get emotional contact with them.
 
 At one point, I got very emotional thinking of what these wives must go through, to live with people who are in this environment, and I got so emotional that I started to cry.
@@ -356,7 +358,7 @@ My colleague sat and held the hand of this patient and talked with her for 20 mi
 
 After this time, my colleague came out very annoyed, and she said, you see the women in that room? Did you see all that equipment she was hooked up to? Yes, yes. She said, you know, that woman has been in there for six hours and nobody has talked to her in that time. Can you imagine it? **A place that can be so skilled at knowing what equipment is necessary, but they don't know that people need human contact**.
 
-47:05  
+47:05
 So many institutions that I work in, have a value system that dis-connects people from the humaneness of themselves and of the people with whom they work. *They'd get so caught up in productivity, which is important, but they get so caught up in the productivity, that they lose connection with human relationships.* Especially when they have titles that imply that they are superior, then especially it's hard for these people to relate in a human way.
 
 #### There's another aspect of authority that can be very destructive
@@ -387,7 +389,7 @@ Then I say **I wonder what happens to us between the time when we're six years o
 
 Typically, one of the teachers might say, I was afraid what I was wondering about might sound stupid.
 
-51:54  
+51:54
 Another might say I was afraid what I was wondering about was abnormal.
 
 I said, so that's what happens to us. We work and get educated in institutions where our capacity to wonder to be creative is dulled, because the **institution is structured in such a way that the authority knows what's right, what we have to do, and our creativity and wondering gets lost**.
@@ -398,45 +400,47 @@ She kept a little book, where she wrote it all down because she decided she'd li
 
 One day she was with me and I said to the students, *I wonder what you wonder about*, and it was very clear that one six year old young man had been wondering about something for quite some time, because he immediately said, I wonder why my puppy won't eat green jello with grapefruit? My friend used that as the stimulus for her to write the song she wanted to write, and she went home and she wrote the following song. All of the lines in this song came directly from the children, except for about four lines, which she added for purposes of rhyme.
 
-53:40  
+53:40
 [I wonder](https://www.youtube.com/watch?v=O7CZ_ElfLk0)
 
-> I wonder why my dog won't eat green jello. I like the wiggly way it melts inside.
->
-> I wonder when a turtle pulls its head in
-> Is it so dark it's scared to be inside.
->
-> Wonder if a rock likes being hard.
-> Wonder if the sky likes being blue.
->
-> I wonder if butterflies like butter.
-> I wonder if you like being you
->
-> I wonder why I don't feel myself stretching.
-> People say I'm growing every day.
->
-> I Wonder why I always have to listen
-> to more words than I ever get to say.
->
-> I Wonder if the grass cries when it's cut.
-> I Wonder if the rain hurts when it falls
->
-> I wonder if the earth gets dizzy turning.
-> I Wonder if the little worms feel small.
->
-> I Wonder why I see so many people
-> do things they don't really want to do.
->
-> I Wonder if the music goes away somewhere
-> After I sing my song to you
->
-> I Wonder if it feels sad to be old?
-> I Wonder if the moon likes company.
->
-> I wonder why it's fun to view a little scared.
-> I wonder if you wonder like me.
+```text
+I wonder why my dog won't eat green jello. I like the wiggly way it melts inside.
 
-55:32  
+I wonder when a turtle pulls its head in
+Is it so dark it's scared to be inside.
+
+Wonder if a rock likes being hard.
+Wonder if the sky likes being blue.
+
+I wonder if butterflies like butter.
+I wonder if you like being you
+
+I wonder why I don't feel myself stretching.
+People say I'm growing every day.
+
+I Wonder why I always have to listen
+to more words than I ever get to say.
+
+I Wonder if the grass cries when it's cut.
+I Wonder if the rain hurts when it falls
+
+I wonder if the earth gets dizzy turning.
+I Wonder if the little worms feel small.
+
+I Wonder why I see so many people
+do things they don't really want to do.
+
+I Wonder if the music goes away somewhere
+After I sing my song to you
+
+I Wonder if it feels sad to be old?
+I Wonder if the moon likes company.
+
+I wonder why it's fun to view a little scared.
+I wonder if you wonder like me.
+```
+
+55:32
 
 #### I would like us all to do some wondering
 

@@ -87,7 +87,7 @@ Marshall Rosenberg - Nonviolent Communication: A Language of Life
     Nonviolent CommunicationSM and empathy skills to Maine and the surrounding
     region.
 * [COURAGEOUS COMMUNICATION](http://opencommunication.org/CourageousCommunication-PeggySmith.pdf)
-    by Peggy Smith, CNVC certified NVC Trainer - a Nonviolent Communicaton
+    by Peggy Smith, CNVC certified NVC Trainer - a Nonviolent Communication
     Curriculum for the Maine Coastal Regional Reentry Center
 * [Transcript of 2-Day Advanced Intensive NVC: Nonviolent
     Communication](http://eqi.org/p3/unfin/nvc_advanced_training.htm) by Marshall

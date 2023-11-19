@@ -38,7 +38,7 @@ If you want to share these materials, visit http://bit.ly/material-share for inf
 
 1. Pick an action or choice that you are very happy you took or made. Describe the action or choice.
 2. Use questions such as the following to find the needs that led to this action or choice:
-  a. What were hoping for when taking this action or making this choice?  
+  a. What were hoping for when taking this action or making this choice?
   b. What was important to you that led you to this action or choice?
   c. What does this action or choice mean to you?
 3. Shift focus back and forth between the action or choice and the needs that led to it. Does anything change in your inner experience as you do this?

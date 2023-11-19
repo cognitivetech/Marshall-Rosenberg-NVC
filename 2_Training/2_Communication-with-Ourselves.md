@@ -252,7 +252,7 @@ Whenever we're angry, Nonviolent Communication shows us how to stop, breathe,
 and become conscious of what you are telling yourself that makes you angry.
 When you see the thinking that makes you angry, transform it into the need that
 it's distorted. Ask yourself, wait a minute, what need of mine is not getting
-met thats being expressed through judgment of the other person?
+met that's being expressed through judgment of the other person?
 
 You'll know that you have gotten connected to your need. Your body will tell
 you so your spirit will tell you so. We live in a different world when we are
@@ -388,9 +388,7 @@ what they wanted. Of course, then we learned how to do that to ourselves.
 
 (24:04) This is a very costly way to think. Not only is it costly by how it
 creates depression, guilt and shame, but it also has a very negative effect on
-our bodies. The more we think in ways that create [anger, depression, guilt and
-shame, the more heart disease in the medical
-research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195800/), the thinking
+our bodies. The more we think in ways that create anger, depression, guilt and shame, the more heart disease in the [medical research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3195800/), the thinking
 that creates those feelings that is referred to as *Type A think*. **It's
 essentially thinking that implies badness or wrongness of a kind that is
 deserving of blame or punishment.** It's a language, tragically, that the
@@ -435,7 +433,7 @@ losing self-respect.
 **We call this kind of self empathy, empathizing with the need being expressed
 behind self blame, we call that morning.** Morning our limitations that we
 didn't meet a need by what we did. After we have helped the person to mourn,
-that is to see how they're blaming themselves for the mistake.  
+that is to see how they're blaming themselves for the mistake.
 
 (27:47) And after we get them to see that the blame is a tragic expression of
 an unmet need, and when they get in touch with the need to see how they feel,

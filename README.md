@@ -3,7 +3,7 @@
 This repository collects resources related to Marshall Rosenberg's Nonviolent
 Communication (NVC) framework.
 
-The first fer subdirectories contain formatted transcipts from various seminars:
+The first few subdirectories contain formatted transcipts from various seminars:
 
 * [1_Basics](./1_Basics/San-Fransisco_Seminar.md) - San Fransisco Seminar
 * [2_Training](./2_Training/1_Introduction.md) - CNVC.org Training
@@ -12,7 +12,7 @@ The first fer subdirectories contain formatted transcipts from various seminars:
 [4_Other-Resources](./4_Other-Resources) contains other resources, such as lists
 of written works, podcasts, presentations, and works by related authors.
 
-This document contains a series of quick refereces and summaries of key concepts.
+This document contains a series of quick references and summaries of key concepts.
 
 ## Summary
 

@@ -44,7 +44,9 @@ The organizations that are doing the most damage on our planet can be quite a ta
 
 I wrote a song, one night, that tells about what can make it hard for us to get involved in social change.
 
-3:30  
+3:30
+
+```text
 Where the hell does the energy come, to care for humanity?
 When it's more than I can cope with, just taking care of me?
 My government sells weapons, when peace is what we need.
@@ -59,8 +61,9 @@ I get sicker everyday from all the oppression I see.
 But worryin' about losin' what I've got makes a coward out of me.
 Where the hell does the energy come to care for humanity?
 When it's more than I can cope with... takin' care of me.
+```
 
-5:34  
+5:34
 **I wrote the song one night in despair after a year long effort in a social change project**. This project was to get a son of a friend of mine out of prison. My friend was a woman of color, very poor. Her son had been committed to prison for life for a crime, we were convinced he didn't commit.
 
 He was convicted by an all white jury. He did not have the kind of lawyer we would have liked. He had a public lawyer that we didn't feel had the skills to really deal with his situation, but his mother didn't have the money to hire a lawyer we would have liked to have had.
@@ -87,7 +90,7 @@ It's an image that shows a man walking down by the river, and he sees a baby flo
 
 And then oh my goodness, he looks there's two babies in the water. He sees another adult walking by the river and he calls "Come on help" and the two of them jump in and pull the two babies out.
 
-10:02  
+10:02
 But they look back. And now there's two more.
 
 Well, the story goes this way. **When do we stop pulling the babies out? And when do we go upstream and see who is throwing them in? and what structures are supporting these people to throw them in?**
@@ -100,7 +103,7 @@ Or we can use Nonviolent Communication to go upstream and to connect with the pe
 
 #### One way that Nonviolent Communication support us, is to help us to look inside and see how do I want to meet this important need of mine, to serve life
 
-11:30  
+11:30
 To be conscious that we have power to serve life at many levels, healing the people who are oppressed by present circumstances, or we can go upstream, as the story identifies. Upstream being the structures that are creating the pain, and we can use our Nonviolent Communication, consciousness and skills to conduct With the people creating the damage and positively compassionately influencing them to transform the structure so that they serve life for all rather than oppress people.
 
 ## Making Purposeful Requests
@@ -113,7 +116,7 @@ That's why I like living under a king. When you live under a king, the critical 
 
 If the king agrees with you, you've created social change, one person has been changed and this can affect how many people are treated. Well, we have created much more complicated structures than we used to have under the king. Very often now, our social change efforts might involve getting 51% of the population in a certain areas to vote differently.
 
-13:39  
+13:39
 It might be to getting a critical mass of people on a committee to vote in favor of something that we want, and this committee might be within a government. This committee has great power within that government to do something we want them to do.
 
 If maybe four out of the seven members of the committee are changed in favor of what we want, we can bring about great social change.
@@ -134,7 +137,7 @@ An example of how Nonviolent Communication can support social change efforts occ
 
 **We wanted to show that if we understood the students, and understood their needs, how we could create a school structure in which they could learn**, as well as any other students,  and they could do so with less violence than was seen in many public schools. However, this school required a lot of cooperation for us to create it. We had to first of all, enlist people to work with us on this project. We had to find some people who would be willing to be teachers in the school, and then we had to train them.
 
-16:57  
+16:57
 We need to find the building where we could have the school, we needed to find people who knew how to research the effectiveness of the school, because part of our social change project would then be to show the public school, in that area, how schools like this could be created. We wanted to use this as a model school, and we would need people to research it and show how the academic achievement could be lifted, and measures of violence would be reduced.
 
 This required a lot of asking a lot of talking with people telling them the project, seeing if we could influence them positively to join us.
@@ -173,7 +176,7 @@ I said, Dr. Gene Schwelp, President of the foundation, I'd like you to meet my c
 
 I was so upset and embarrassed.
 
-21:04  
+21:04
 I didn't know what to do at that point, and neither did the head of any foundation. This is usually not the way that people greet him by saying, where's the money, brother?
 
 He kind of smiled and was very polite, and he said, "what money?"
@@ -188,7 +191,7 @@ The President of the foundation said, How is this school different than other sc
 
 Notice what Chappelle had done there. Instead of going in and filling our precious 20 minutes with a lot of talk, trying to show the person all the advantages of the school we wanted to create, and why we liked it and wanted to do it. Chappelle introduced the dialogue, in just a few words, where's the money? Then this gave the other person a chance to ask for what he needed to know, to decide whether he wanted to give us what we came for. **We walked out with $50,000**.
 
-22:30  
+22:30
 
 #### And I have used this principle in social change efforts ever since
 
@@ -220,7 +223,7 @@ For example, I was working with some parents in a school in one city. These were
 
 Some of them used these words. **They're destroying the spirit of our children with some of the policies** and they told me what some of these policies were in the school.
 
-27:28  
+27:28
 They asked me to help them in bringing about change in the school so that their children's needs would be better fulfilled.
 
 I suggested a way they might be able to talk to the principal of the school, who they saw making rules that created the problems that concern them. When I talked about communicating with him, they said, he won't talk to us.
@@ -245,7 +248,7 @@ To do this without any enemy image of the people doing this, and where the purpo
 
 So we organized this strike, the parents took the children out of school. They marched outside the school with signs communicating their intent. I had to help them change some of the signs because at first, some of the parents had some signs in which they were saying things that implied wrongness on the part of the people running the school. **I showed them that I thought it would be more effective if we created signs that purely communicated our needs and our intent, but in no way implied that we saw the people at the school as evil or bad**.
 
-31:24  
+31:24
 The project was successful in helping that parents finally getting the communication with the authorities that they needed, to get their needs understood, and to find a way of changing policies so that they felt that their children are better protected.
 
 To go about social change of this variety, where we don't see people as evil who are doing the actions that we see interfering with our needs being fulfilled, to go about social change out of that energy requires, at times doing some [despair work](https://archive.org/details/despairpersonalp00macyrich).
@@ -278,7 +281,7 @@ If people are judged as bad, then these people who call themselves superiors hav
 
 Our judicial system is based on this way of thinking that there are people who know what's right and what's wrong, and who therefore have the right to punish people when they deserve it.
 
-36:27  
+36:27
 **Within cultures that have this system, people in positions of authority use that concept of justice**.
 
 * Parents believe that since they are superior to children, they have the right to punish or reward them, when they judge the child is deserving those treatments.
@@ -317,11 +320,16 @@ Now, this concept of restorative justice is not a new one.
 
 #### There are many cultures throughout the world that have historically always use restorative justice and still do
 
-Anthropologist [Margaret Mead](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1058&context=nd_naturallaw_forum), [Ruth Benedict](https://specialcollections.vassar.edu/collections/manuscripts/findingaids/benedict_ruth.html), [Ashley Montagu](https://www.nytimes.com/1999/11/28/nyregion/ashley-montagu-94-author-and-popular-anthropologist.html), have studied these cultures and describe how different is their spirituality and how different is their way of dealing with people who act in a way that creates pain and disharmony.
+Anthropologist [Margaret Mead](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1058&context=nd_naturallaw_forum),
+[Ruth Benedict](https://specialcollections.vassar.edu/collections/manuscripts/findingaids/benedict_ruth.html),
+[Ashley Montagu](https://www.nytimes.com/1999/11/28/nyregion/ashley-montagu-94-author-and-popular-anthropologist.html),
+have studied these cultures and describe how different is their spirituality
+and how different is their way of dealing with people who act in a way that
+creates pain and disharmony.
 
 I'd like to now talk about what [restorative justice](https://savethekidsgroup.org/intro-to-restorative-justice-maurece-graham/) looks like in these cultures that go about seeing justice in a radically different way, whose spirituality does not believe that people are evil, or good. It **believes that we all, when we're functioning in harmony with our nature, enjoy more than anything else, contributing to one another's well being**.
 
-41:20  
+41:20
 And therefore, when they see people doing things that contribute to pain on the part of others that violate the rights of others, they do not interpret these people as evil or bad.
 
 They believe that people must have forgot the power they have to enrich life and how good it is to contribute to people's well being. Therefore, they surround them with people who know them, and they have a circle in which these people around them remind them of all of the things that they have done that has enriched their lives, because their spirituality doesn't imply that this person did what they did because they're evil and deserved to be punished.
@@ -376,7 +384,7 @@ The person whose house was destroyed, may request support in rebuilding the hous
 
 * [Joanna Macy](https://www.joannamacy.net/main)
     * [Despair and personal power in the nuclear age](https://archive.org/details/despairpersonalp00macyrich) (1929)
-* [A spirituality that trasforms](http://www.kenwilber.com/Writings/PDF/ASpiritualitythatTransforms_GENERAL_b42000.pdf), Ken Wilber
+* [A spirituality that transforms](http://www.kenwilber.com/Writings/PDF/ASpiritualitythatTransforms_GENERAL_b42000.pdf), Ken Wilber
 * [Some Anthropological Considerations Concerning Natural Law](https://scholarship.law.nd.edu/cgi/viewcontent.cgi?article=1058&context=nd_naturallaw_forum), Margaret Mead
   > In asking what conceptions of human rights are universal to all known cultures, it is, of course, necessary to recognize that we can only ask this question about that assemblage of societies that have been observed and recorded. Inevitably, our universe excludes all cultures that have vanished without leaving any record, and the steadily shrinking number of existing cultures that exist in the present but have not yet been studied. The culturally regulated relationship among persons within a given environment is characterized both by certain persistent regularities, due to the species-specific characteristics of human beings, and a wide variety of forms having historical uniqueness. It is only those areas of human life which are most closely based in our common biological heritage in which we may not expect still to find, among existing cultures, instances which alter existing generalizations.
 * [Guide to the Ruth Fulton Benedict Papers, 1905-1948](https://specialcollections.vassar.edu/collections/manuscripts/findingaids/benedict_ruth.html)
