@@ -296,22 +296,24 @@ people see each other's needs and enjoy contributing to each other's needs.
 Anger tells us that we are thinking in a way that blocks our needs, that blocks
 our awareness, of our needs, and the other person's needs.
 
-> “Out beyond ideas of wrongdoing and rightdoing,
-> there is a field. I’ll meet you there.
-> When the soul lies down in that grass,
-> the world is too full to talk about.
-> Ideas, language, even the phrase “each other”
-> doesn’t make any sense.
-> The breeze at dawn has secrets to tell you.
-> Don’t go back to sleep.
-> You must ask for what you really want.
-> Don’t go back to sleep.
-> People are going back and forth across the doorsill
-> where the two worlds touch.
-> The door is round and open.
-> Don’t go back to sleep.”
->
-> * [the rumi poem we should all read](https://www.elephantjournal.com/2016/12/the-rumi-poem-we-should-all-read/)
+```text
+ “Out beyond ideas of wrongdoing and rightdoing,
+ there is a field. I’ll meet you there.
+ When the soul lies down in that grass,
+ the world is too full to talk about.
+ Ideas, language, even the phrase “each other”
+ doesn’t make any sense.
+ The breeze at dawn has secrets to tell you.
+ Don’t go back to sleep.
+ You must ask for what you really want.
+ Don’t go back to sleep.
+ People are going back and forth across the doorsill
+ where the two worlds touch.
+ The door is round and open.
+ Don’t go back to sleep.”
+
+ * [the rumi poem we should all read](https://www.elephantjournal.com/2016/12/the-rumi-poem-we-should-all-read/)
+```
 
 So it can be a helpful friend, anger. **We can use it as a wake up call, to
 identify the thinking that's making us angry and transforming it into an unmet

@@ -477,17 +477,33 @@ everybody has the same needs. To really connect in a way that promotes
 compassion between ourselves and others, we need to be able to express needs in
 a language that the other people can resonate to.
 
-| **Fundamental Human Needs** | **Being (qualities)**                            | **Having (things)**                               | **Doing (actions)**                              | **Interacting (settings)**                      |
-| --------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| **Subsistence**             | physical and mental health                       | food, shelter work                                | feed, clothe, rest, work                         | living environment, social setting              |
-| **Protection**              | care, adaptability, autonomy                     | social security, health systems, work             | co-operate, plan, take care of, help             | social environment, dwelling                    |
-| **Affection**               | respect, sense of humour, generosity, sensuality | friendships, family, relationships with nature    | share, take care of, make love, express emotions | privacy, intimate spaces of togetherness        |
-| **Understanding**           | critical capacity, curiosity, intuition          | literature, teachers, policies                    | educational                                      | analyse, study, meditate, investigate           |
-| **Participation**           | receptiveness, dedication, sense of humour       | responsibilities, duties, work, rights            | cooperate, dissent, express opinions             | associations, parties, churches, neighbourhoods |
-| **Leisure**                 | imagination, tranquillity, spontaneity           | games, parties, peace of mind                     | day-dream, remember, relax, have fun             | landscapes, intimate spaces, places to be alone |
-| **Creation**                | imagination, boldness, inventiveness, curiosity  | abilities, skills, work, techniques               | invent, build, design, work, compose, interpret  | spaces for expression, workshops, audiences     |
-| **Identity**                | sense of belonging, self-esteem, consistency     | language, religions, work, customs, values, norms | get to know oneself, grow, commit oneself        | places one                                      |
-| **Freedom**                 | autonomy, passion, self-esteem, open-mindedness  | equal rights                                      | dissent, choose, run risks, develop awareness    | anywhere                                        |
+| **Fundamental Human Needs** | **Being (qualities)** | **Having (things)** |
+**Doing (actions)** | **Interacting (settings)** | | ---------------------------
+
+| ------------------------------------------------ |
+| ------------------------------------------------ |
+| ------------------------------------------------ |
+| -----------------------------------------------  |
+| and mental health                                |
+| environment, social setting                      |
+| social security, health systems, work            |
+| social environment, dwelling                     |
+| generosity, sensuality                           |
+| take care of, make love, express emotions        |
+| togetherness                                     |
+| literature, teachers, policies                   |
+| investigate                                      |
+| responsibilities, duties, work, rights           |
+| associations, parties, churches, neighbourhoods  |
+| tranquillity, spontaneity                        |
+| relax, have fun                                  |
+| **Creation**                                     |
+| skills, work, techniques                         |
+| spaces for expression, workshops, audiences      |
+| belonging, self-esteem, consistency              |
+| values, norms                                    |
+| **Freedom**                                      |
+| dissent, choose, run risks, develop awareness    |
 
 [Max-Neef Model of Human-Scale Development](http://www.rainforestinfo.org.au/background/maxneef.htm)
 
@@ -1134,17 +1150,33 @@ dogs.
   > these dimensions, a 36 cell matrix is developed which can be filled with
   > examples of satisfiers for those needs.
 
-| **Fundamental Human Needs** | **Being (qualities)**                            | **Having (things)**                               | **Doing (actions)**                              | **Interacting (settings)**                      |
-| --------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
-| **Subsistence**             | physical and mental health                       | food, shelter work                                | feed, clothe, rest, work                         | living environment, social setting              |
-| **Protection**              | care, adaptability, autonomy                     | social security, health systems, work             | co-operate, plan, take care of, help             | social environment, dwelling                    |
-| **Affection**               | respect, sense of humour, generosity, sensuality | friendships, family, relationships with nature    | share, take care of, make love, express emotions | privacy, intimate spaces of togetherness        |
-| **Understanding**           | critical capacity, curiosity, intuition          | literature, teachers, policies                    | educational                                      | analyse, study, meditate, investigate           |
-| **Participation**           | receptiveness, dedication, sense of humour       | responsibilities, duties, work, rights            | cooperate, dissent, express opinions             | associations, parties, churches, neighborhoods  |
-| **Leisure**                 | imagination, tranquillity, spontaneity           | games, parties, peace of mind                     | day-dream, remember, relax, have fun             | landscapes, intimate spaces, places to be alone |
-| **Creation**                | imagination, boldness, inventiveness, curiosity  | abilities, skills, work, techniques               | invent, build, design, work, compose, interpret  | spaces for expression, workshops, audiences     |
-| **Identity**                | sense of belonging, self-esteem, consistency     | language, religions, work, customs, values, norms | get to know oneself, grow, commit oneself        | places one                                      |
-| **Freedom**                 | autonomy, passion, self-esteem, open-mindedness  | equal rights                                      | dissent, choose, run risks, develop awareness    | anywhere                                        |
+| **Fundamental Human Needs** | **Being (qualities)** | **Having (things)** |
+**Doing (actions)** | **Interacting (settings)** | | ---------------------------
+
+| ------------------------------------------------ |
+| ------------------------------------------------ |
+| ------------------------------------------------ |
+| -----------------------------------------------  |
+| and mental health                                |
+| environment, social setting                      |
+| social security, health systems, work            |
+| social environment, dwelling                     |
+| generosity, sensuality                           |
+| take care of, make love, express emotions        |
+| togetherness                                     |
+| literature, teachers, policies                   |
+| investigate                                      |
+| responsibilities, duties, work, rights           |
+| associations, parties, churches, neighborhoods   |
+| tranquillity, spontaneity                        |
+| relax, have fun                                  |
+| **Creation**                                     |
+| skills, work, techniques                         |
+| spaces for expression, workshops, audiences      |
+| belonging, self-esteem, consistency              |
+| values, norms                                    |
+| **Freedom**                                      |
+| dissent, choose, run risks, develop awareness    |
 
 ### 4. Requests
 
