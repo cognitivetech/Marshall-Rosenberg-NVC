@@ -106,7 +106,7 @@ Marshall Rosenberg - Nonviolent Communication: A Language of Life
 
 ## Jackal and Giraffe Language
 
-![](https://giraffeincblog.files.wordpress.com/2011/02/jakal-giraffe1.jpg)
+![Jackal and Giraffe](https://giraffeincblog.files.wordpress.com/2011/02/jakal-giraffe1.jpg)
 
 - [Giraffe Language: Changing Learned Communication Patterns](https://giraffeincblog.com/2011/02/25/jackal-and-giraffe-language/)
   > Giraffe Language is interpersonal communication divided into two fundamental
@@ -377,7 +377,7 @@ Summary:
   [Link](https://nvc-global.net/wp-content/uploads/2019/04/MLittle_Thesis0408.pdf)
   Marion Little BA Linguistics, University of Victoria, 2002
 
-[![](https://baynvc.org/wp-content/uploads/2015/06/NVC-Tree-of-Life-1100x1424.jpg)](https://baynvc.org/the-nvc-tree-of-life/)
+[![Tree of life](https://baynvc.org/wp-content/uploads/2015/06/NVC-Tree-of-Life-1100x1424.jpg)](https://baynvc.org/the-nvc-tree-of-life/)
 
 ## Works Authored by Marshall Rosenberg
 

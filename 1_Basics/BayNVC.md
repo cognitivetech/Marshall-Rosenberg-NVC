@@ -65,48 +65,48 @@ connection with others become increasingly possible and easy.
     although the strategies we use to meet these needs may differ. Conflict
     occurs at the level of strategies coupled with interpretations, not at the
     level of needs.
-1. **All actions are attempts to meet needs** : Our desire to meet needs,
+2. **All actions are attempts to meet needs** : Our desire to meet needs,
     whether conscious or unconscious, underlies every action we take. We only
     resort to violence or other actions that do not meet our own or others'
     needs when we do not recognize the existence of more effective strategies
     for meeting needs.
-1. **Feelings point to needs being met or unmet** : Feelings may be triggered
+3. **Feelings point to needs being met or unmet** : Feelings may be triggered
     but not caused by others. Our feelings arise directly out of our
     experience of whether our needs seem to us met or unmet in a given
     circumstance. Our assessment of whether or not our needs are met almost
     invariably involves an interpretation or belief. When our needs are met,
     we may feel happy, satisfied, peaceful, etc. When our needs are not met,
     we may feel sad, scared, frustrated, etc.
-1. **The most direct path to peace is through self-connection** : Our capacity
+4. **The most direct path to peace is through self-connection** : Our capacity
     for peace is not dependent on having our needs met. Even when many needs
     are unmet, meeting our need for self-connection can be sufficient for
     inner peace.
-1. **Choice is internal** : Regardless of the circumstances, we can meet our
+5. **Choice is internal** : Regardless of the circumstances, we can meet our
     need for autonomy by making conscious choices based on awareness of needs;
     at the very least in terms of the choice of the meaning we assign to the
     circumstances.
-1. **All human beings have the capacity for compassion** : We have an innate
+6. **All human beings have the capacity for compassion** : We have an innate
     capacity for compassion, though not always the knowledge of how to access
     it. When we are met with compassion and respect for our autonomy, we tend
     to have more access to our own compassion for ourselves and for others.
     Growing compassion contributes directly to our capacity to meet needs
     peacefully.
-1. **Human beings enjoy giving** : We inherently enjoy contributing to others
+7. **Human beings enjoy giving** : We inherently enjoy contributing to others
     when we have connected with our own and others' needs and can experience
     our giving as coming from choice.
-1. **Human beings meet needs through interdependent relationships** : We meet
+8. **Human beings meet needs through interdependent relationships** : We meet
     many of our needs through our relationships with other people and with
     nature, though some needs are met principally through the quality of our
     relationship with ourselves and for some, with a spiritual dimension to
     life. When others' needs are not met, some needs of our own also remain
     unmet.
-1. **Our world offers abundant resources for meeting needs** : When human
+9. **Our world offers abundant resources for meeting needs** : When human
     beings are committed to valuing everyone's needs, are able to discern how
     much they actually need, and have regained their skills for fostering
     connection and their creativity about sharing resources, we can overcome
     our current crisis of imagination and find ways to attend to everyone's
     basic needs.
-1. **Human beings change** : Both our needs and the strategies we have to meet
+10. **Human beings change** : Both our needs and the strategies we have to meet
     them change over time.
 
 Wherever we find ourselves and each other in the present, individually and
@@ -124,19 +124,19 @@ attended to peacefully.
 1. **Self-compassion** : We aim to release all self-blame, self-judgments, and
     self-demands, and meet ourselves with compassion and understanding for the
     needs we try to meet through all our actions.
-1. **Expressing from the heart** : When expressing ourselves, we aim to speak
+2. **Expressing from the heart** : When expressing ourselves, we aim to speak
     from the heart, expressing our feelings and needs, and making specific,
     do-able requests that take into considerations the structural and cultural
     context within which we interact.
-1. **Receiving with compassion** : When we hear others, we aim to hear the
+3. **Receiving with compassion** : When we hear others, we aim to hear the
     feelings and needs behind their expressions and actions, regardless of
     their social location and how they express themselves, even if their
     expression or actions do not meet our needs (e.g. judgments, demands,
     discounting, denial of responsibility, or physical violence).
-1. **Prioritizing connection** : We aim to focus on connecting open-heartedly
+4. **Prioritizing connection** : We aim to focus on connecting open-heartedly
     with everyone's needs before seeking solutions, even in challenging
     situations, so as to increase the chances of a solution that works for all.
-1. **Beyond "right" and "wrong"** : We aim to transform our habit of making
+5. **Beyond "right" and "wrong"** : We aim to transform our habit of making
     "right" and "wrong" assessments (moralistic judgments), and to focus
     instead on whether or not human needs appear met (need-based assessments).
 
@@ -146,19 +146,19 @@ attended to peacefully.
     to our own needs, recognizing that others do not have the power to make us
     feel anything. This recognition empowers us to take action to meet our
     needs instead of waiting for others to change.
-1. **Taking responsibility for our actions** : We aim to recognize our choice in
+2. **Taking responsibility for our actions** : We aim to recognize our choice in
     each moment, and take actions that we believe will most likely meet our
     needs with the least cost possible to others. We aim to avoid taking
     actions motivated by fear, guilt, shame, desire for reward, or ideas of
     duty, obligation, or deserving.
-1. **Living in peace with unmet needs** : We aim to make room for and embrace
+3. **Living in peace with unmet needs** : We aim to make room for and embrace
     our feelings when we experience our needs as unmet, connecting with the
     needs rather than insisting on meeting them.
-1. **Increasing capacity for meeting needs** : We aim to develop our internal
+4. **Increasing capacity for meeting needs** : We aim to develop our internal
     resources, particularly our NVC skills, so we can contribute to more
     connection and greater diversity of strategies for meeting more needs of
     more people at least cost to others and nature.
-1. **Increasing capacity for meeting the present moment** : We aim to develop
+5. **Increasing capacity for meeting the present moment** : We aim to develop
     our capacity to connect in each moment with our own and others' needs, and
     to respond to present stimuli in the moment instead of through static
     stories about who we and others are.
@@ -172,11 +172,11 @@ attended to peacefully.
     not just our own, and not just the other person's. We aim to do so with an
     understanding of how power differences affect our own and others' capacity
     to hear and say "No".
-1. **Increasing capacity for needs-based sharing of resources** : We aim to
+2. **Increasing capacity for needs-based sharing of resources** : We aim to
     develop and practice needs-based strategies for sharing our world's
     resources with the goal of meeting the most needs for the most number of
     people and for the natural environment.
-1. **Protective use of force** : We aim to use the minimum force necessary in
+3. **Protective use of force** : We aim to use the minimum force necessary in
     order to protect, not to educate, punish, or get what we want without the
     other's agreement; with the most love possible; and only in situations
     where we find that dialogue fails to attend to an immediate or ongoing harm

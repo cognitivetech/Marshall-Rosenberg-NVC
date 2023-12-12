@@ -86,7 +86,7 @@ The 2 Parts and 4 Components of NVC
 
 ### 4 Steps
 
-- [The Practice of NonViolent Communication](http://www.citizenshandbook.org/nonviolent_communication.pdf)
+[The Practice of NonViolent Communication](http://www.citizenshandbook.org/nonviolent_communication.pdf)
 
 > Nonviolent Communication (NVC) is a simple method for clear, empathic
 > communication consisting of four steps: Stating observations, then feelings,
@@ -96,7 +96,7 @@ The 2 Parts and 4 Components of NVC
 > that is conscious, present, and attuned to the genuine, living needs of
 > yourself and others
 
-- [4 Part NVC Process - PDF](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf)
+[4 Part NVC Process - PDF](https://www.nonviolentcommunication.com/pdf_files/4part_nvc_process.pdf)
 
 #### 1. Observations
 
@@ -128,7 +128,7 @@ Make a concrete request for action to meet the need just identified. Ask clearly
 and specifically for what you want right now, rather than hinting or stating
 only what you don't want.
 
-[![](https://i.imgur.com/LKOKvVd.jpg)](https://www.mediateyourlife.com/handouts/)
+[![Handouts link](https://i.imgur.com/LKOKvVd.jpg)](https://www.mediateyourlife.com/handouts/)
 
 ### Feelings Inventory
 
@@ -204,33 +204,17 @@ only what you don't want.
   > these dimensions, a 36 cell matrix is developed which can be filled with
   > examples of satisfiers for those needs.
 
-| **Fundamental Human Needs** | **Being (qualities)** | **Having (things)** |
-**Doing (actions)** | **Interacting (settings)** | | ---------------------------
-
-| ------------------------------------------------ |
-| ------------------------------------------------ |
-| ------------------------------------------------ |
-| -----------------------------------------------  |
-| and mental health                                |
-| environment, social setting                      |
-| social security, health systems, work            |
-| social environment, dwelling                     |
-| generosity, sensuality                           |
-| take care of, make love, express emotions        |
-| togetherness                                     |
-| literature, teachers, policies                   |
-| investigate                                      |
-| responsibilities, duties, work, rights           |
-| associations, parties, churches, neighbourhoods  |
-| tranquillity, spontaneity                        |
-| relax, have fun                                  |
-| **Creation**                                     |
-| skills, work, techniques                         |
-| spaces for expression, workshops, audiences      |
-| belonging, self-esteem, consistency              |
-| values, norms                                    |
-| **Freedom**                                      |
-| dissent, choose, run risks, develop awareness    |
+| **Fundamental Human Needs** | **Being (qualities)**                            | **Having (things)**                               | **Doing (actions)**                              | **Interacting (settings)**                      |
+| --------------------------- | ------------------------------------------------ | ------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------- |
+| **Subsistence**             | physical and mental health                       | food, shelter work                                | feed, clothe, rest, work                         | living environment, social setting              |
+| **Protection**              | care, adaptability, autonomy                     | social security, health systems, work             | co-operate, plan, take care of, help             | social environment, dwelling                    |
+| **Affection**               | respect, sense of humour, generosity, sensuality | friendships, family, relationships with nature    | share, take care of, make love, express emotions | privacy, intimate spaces of togetherness        |
+| **Understanding**           | critical capacity, curiosity, intuition          | literature, teachers, policies                    | educational                                      | analyse, study, meditate, investigate           |
+| **Participation**           | receptiveness, dedication, sense of humour       | responsibilities, duties, work, rights            | cooperate, dissent, express opinions             | associations, parties, churches, neighbourhoods |
+| **Leisure**                 | imagination, tranquillity, spontaneity           | games, parties, peace of mind                     | day-dream, remember, relax, have fun             | landscapes, intimate spaces, places to be alone |
+| **Creation**                | imagination, boldness, inventiveness, curiosity  | abilities, skills, work, techniques               | invent, build, design, work, compose, interpret  | spaces for expression, workshops, audiences     |
+| **Identity**                | sense of belonging, self-esteem, consistency     | language, religions, work, customs, values, norms | get to know oneself, grow, commit oneself        | places one                                      |
+| **Freedom**                 | autonomy, passion, self-esteem, open-mindedness  | equal rights                                      | dissent, choose, run risks, develop awareness    | anywhere                                        |
 
 ## Jackal and Giraffe Language
 
