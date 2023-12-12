@@ -25,14 +25,14 @@ Buy this course at
 - [Observation and Evaluation](#observation-and-evaluation)
 - [Feelings and Needs](#feelings-and-needs)
 - [Developing a Literacy of Needs](#developing-a-literacy-of-needs)
-  - [Universal Human Needs](#universal-human-needs)
-  - [Evaluation that promotes compassionate giving](#evaluation-that-promotes-compassionate-giving)
-  - [Clearly expressing needs](#clearly-expressing-needs)
-  - [Requests that don't sound like demands](#requests-that-dont-sound-like-demands)
-  - [Saying No](#saying-no)
-  - [More constructive than criticism](#more-constructive-than-criticism)
-  - [Difficult needs to get clear](#difficult-needs-to-get-clear)
-  - [The word Love](#the-word-love)
+    - [Universal Human Needs](#universal-human-needs)
+    - [Evaluation that promotes compassionate giving](#evaluation-that-promotes-compassionate-giving)
+    - [Clearly expressing needs](#clearly-expressing-needs)
+    - [Requests that don't sound like demands](#requests-that-dont-sound-like-demands)
+    - [Saying No](#saying-no)
+    - [More constructive than criticism](#more-constructive-than-criticism)
+    - [Difficult needs to get clear](#difficult-needs-to-get-clear)
+    - [The word Love](#the-word-love)
 - [4 Part NVC Model](#4-part-nvc-model)
 - [Resources](#resources)
 
@@ -931,7 +931,7 @@ of interpersonal relationships.**
 **Let's look at this word love.**
 
 (53:51) I was working with a couple that was having problems in their
-relationship. I asked the wife, what needs of yours and not getting met?
+relationship. I asked the wife, what needs of yours are not getting met?
 
 She said, my need for love isn't getting met.
 
