@@ -483,7 +483,7 @@ For example, **let's take another very important need to make this point clear h
 **Let's look at this word love.**
 
 (53:51)    
-I was working with a couple that was having problems in their relationship. I asked the wife, what needs of yours and not getting met? 
+I was working with a couple that was having problems in their relationship. I asked the wife, what needs of yours are not getting met? 
 
 She said, my need for love isn't getting met. 
 
